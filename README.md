@@ -62,6 +62,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>As the owner, I want a website that is accessible to anyone.</li>
     <li>As the owner, I want a site that will encourage my customers to buy from our company and therefore increase     our profits</li>
     <li> As the owner, I want a site that will have the potential to be built upon in the future.</li>
+    <li> As the owner, I want the customers to easily locate the company.</li>
 </ol>
 
 <hr>
