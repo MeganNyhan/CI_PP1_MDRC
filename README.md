@@ -36,25 +36,33 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <h3><strong>User Requirements</strong></h3>
 <p>As I have mentioned, we have a very large/ varied target audience, and becasue of this the site has to be simple in design and very accessible. They way I have tackled this are as follows:</p>
 <ul>
-<li>Simple navigation that is non-ambiguous</li>
-<li>Have skimmable text in paragraphs so that users can easily and quickly find what they are looking for.</li>
-<li>Simple presentation of content on the page that make logical sense. </li>
-<li>A functional responsive wesite that allow the user to view the site regardless of screen size. </li>
-<li>A straightforward and professional form that allows users to easily contact the business.</li>
+    <li>Simple navigation that is non-ambiguous</li>
+    <li>Have skimmable text in paragraphs so that users can easily and quickly find what they are looking for.</li>
+    <li>Simple presentation of content on the page that make logical sense. </li>
+    <li>A functional responsive wesite that allow the user to view the site regardless of screen size. </li>
+    <li>A straightforward and professional form that allows users to easily contact the business.</li>
 </ul>
 
 <h3><strong>User Stories</strong></h3>
-<h3<strong>First time and Recurring Stories</strong></h3>
+<h3><strong>First time and Recurring Stories</strong></h3>
 <ol>
-<li>As a user, I want to be able to view the services that I can avail of in my local community.</li>
-<li>As a user, I want to know where I can get a avail of printing in my area.</li>
-<li>As a user with the view of visting the office, I want to know exactly where it is located.</li>
-<li>As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website.</li>
-<li>As a user who doesn't understand websites, I want to easily find a phone number for the office so I can contact them.
-</li>
-<li>As a user who owns a local business, I want to contact them get a quote for the price of business cards.</li>
+    <li>As a user, I want to be able to view the services that I can avail of in my local community.</li>
+    <li>As a user, I want to know where I can get a avail of printing in my area.</li>
+    <li>As a user with the view of visting the office, I want to know exactly where it is located.</li>
+    <li>As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website.</li>
+        <li>As a user who doesn't understand websites, I want to easily find a phone number for the office so I can contact them.
+    </li>
+    <li>As a user who owns a local business, I want to contact them get a quote for the price of business cards.</li>
 </ol>
 
+<h3><strong>Site's Owner Stories</strong></h3>
+<ol>
+    <li>As the owner of the site, I want my potential customers to have a place where they can view the services I offer. </li>
+    <li>As the owner, I want to have an online platform that can be a hub of information for the locals in the area.</li>
+    <li>As the owner, I want a website that is accessible to anyone.</li>
+    <li>As the owner, I want a site that will encourage my customers to buy from our company and therefore increase     our profits</li>
+    <li> As the owner, I want a site that will have the potential to be built upon in the future.</li>
+</ol>
 
 <hr>
 
