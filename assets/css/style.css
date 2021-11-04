@@ -5,51 +5,71 @@
 /* Header Image */
 
 #header-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#header-image {
-    height: 600px;
-    width: 100%;}
-    
-
-
-
 /* Navigation */
 nav{
-    height: 10px;
+    height: 5px;
     width: 100%;
+    float: center;
 }
 
 nav ul {background-color: #fdd008;
-        width:50%;
-        height: 50px;}
+        width: relative;
+        height:50px;
+     }
 
-#menu {font-size: 100%;
-    letter-spacing: 3px;}
 
-#menu li{
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu {
+    line-height: 50px;
+}
+
+#menu li {
+    float: right;
     list-style-type: none;
-    margin: 20px;
-    text-align: center;
-    display:inline-block;
-    background-color: #fdd008;
-    padding-left: 37px;
-}    
+    margin-right: 250px;
+}
 
-#menu a{
+#menu a {
     text-decoration: none;
-    color: black;
+    color: inherit;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #3a3a3a;}
+
+
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
 }
 
+#photos > img {
+    width: 100%;
+}
+
+
+
+/* Footer/ social networks */
+footer {
+    height: 50px;
+    
+}
