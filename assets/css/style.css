@@ -1,0 +1,49 @@
+
+
+
+
+/* Header Image */
+
+#header-image {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#header-image {
+    height: 600px;
+    width: 100%;}
+    
+
+
+
+/* Navigation */
+nav{padding-top: 100px;
+    height: 10px;
+    width: 100%;
+}
+#menu {font-size: 100%;
+        letter-spacing: 3px;}
+
+#menu li{
+    list-style-type: none;
+    margin: 50px;
+    text-align: center;
+    display: inline-block;
+    background-color: #fdd008;
+}    
+
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
