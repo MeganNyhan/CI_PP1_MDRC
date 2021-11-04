@@ -19,19 +19,25 @@
 
 
 /* Navigation */
-nav{padding-top: 100px;
+nav{
     height: 10px;
     width: 100%;
 }
+
+nav ul {background-color: #fdd008;
+        width:50%;
+        height: 50px;}
+
 #menu {font-size: 100%;
-        letter-spacing: 3px;}
+    letter-spacing: 3px;}
 
 #menu li{
     list-style-type: none;
-    margin: 50px;
+    margin: 20px;
     text-align: center;
-    display: inline-block;
+    display:inline-block;
     background-color: #fdd008;
+    padding-left: 37px;
 }    
 
 #menu a{
