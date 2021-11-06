@@ -30,6 +30,7 @@ nav ul {background-color: #fdd008;
 }
 
 #menu li {
+    text-transform: uppercase;
     float: left;
     list-style-type: none;
     margin-right: 90px;
@@ -53,6 +54,7 @@ nav ul {background-color: #fdd008;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
+        text-transform: uppercase;
         
     }
 
@@ -81,6 +83,7 @@ nav ul {background-color: #fdd008;
         margin-left: 45%;
         padding-top: 20px;
         padding-bottom: 20px;
+        text-transform: uppercase;
 
     }    
 
@@ -113,6 +116,7 @@ nav ul {background-color: #fdd008;
     margin-left: 43%;
     padding-top: 50px;
     padding-bottom: 20px;
+    text-transform: uppercase;
 }   
 
 #meet-the-team img {
@@ -272,13 +276,18 @@ footer {
 
 #gallery-photos {
     clear: both;
-    line-height: 1;
+    line-height: 3;
     column-count: 3;
     column-gap: 1;
 }
 
 #gallery-photos > img {
     width: 100%;
+}
+
+#header-image-gallery{
+    height: 560px;
+    padding-top: 40px;
 }
 /* -------------------- Services Page -------------------- */
 
@@ -289,22 +298,20 @@ footer {
     position: relative;
 }
 
+/* Contact Page */
 
+#header-image-contact{
+    height: 600px;
+    width: 50%;
 
+}
+#contact-main{
+    margin-left:50px;
+    text-transform: uppercase;
 
+}
 
-
-
-/** For medium screen sizes from 950px wide and down **/
-
-@media screen and (max-width: 275px){
-
-    #menu {
-        clear:left;
-        float: center;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 20px;
-        background-color: #fdd008;
-    }
+#map {
+    float: right;
+margin-right: 20px;
 }
