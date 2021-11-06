@@ -261,7 +261,25 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+/* -------------------- Gallery ----------------------- */
 
+.gallery-heading {
+    padding-left: 150px;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#gallery-photos {
+    clear: both;
+    line-height: 1;
+    column-count: 3;
+    column-gap: 1;
+}
+
+#gallery-photos > img {
+    width: 100%;
+}
 /* -------------------- Services Page -------------------- */
 
 #services-header-image {
@@ -275,18 +293,7 @@ footer {
 
 
 
-/* gallery */
 
-#photos {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
-}
-
-#photos > img {
-    width: 100%;
-}
 
 /** For medium screen sizes from 950px wide and down **/
 
