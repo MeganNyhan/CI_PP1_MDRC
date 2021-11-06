@@ -52,6 +52,174 @@ nav ul {background-color: #fdd008;
     border-bottom: 1px solid #3a3a3a;}
 
 
+    /* Welcome */
+
+    #welcome h1 {
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
+
+    #welcome p {
+        width: 70%;
+        text-align: justify;
+        padding-left: 200px;
+    }
+
+    
+
+    /* about us text */
+
+    #about-us {
+        background-color: #fff;
+        width: 100%;
+        height: inherit; }
+
+    #about-us h1 {
+        margin-left: 110px;
+    }    
+
+    .about p {
+        padding-top: 10px;
+        width: 40%;
+        float: left;
+        padding-left: 175px;
+        text-align: justify;
+}
+
+    .about img {
+        float: center;
+        width: 30%;
+        padding-right: 20px;
+        height: 350px;
+        padding-left: 70px;
+}
+
+
+/* Meet the Team */
+
+
+
+#meet-the-team h1 {
+    margin-left: 110px;
+    margin-bottom: 40px;
+} 
+
+#meet-the-team img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+figure {
+    padding: 4px;
+    margin: auto;
+  }
+  
+  figcaption {
+    background-color: white;
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+    width: 220px;
+  }
+
+  /* Richard */
+  .richard img {
+      margin-left: 10px;
+  }
+
+  .richard figcaption {
+    margin-top: 10px;
+}
+
+    .richard {
+        margin-left: 150px;
+        float: left;
+    }
+
+    /* Jean */
+    .jean {
+        margin-left: 70px;
+        float: left;
+    }
+    .jean img {
+        margin-left: 25px;
+    }
+  
+    .jean figcaption {
+      margin-top: 10px;
+     width: 250px;
+  }
+  
+    /* Lesley */
+
+    .lesley {
+    float: right;  
+    margin-right: 150px;    
+    }
+    .lesley img {
+    margin-left: 25px;
+    }
+
+    .lesley figcaption {
+    margin-top: 10px;
+    width: 250px;
+    }
+
+  /* Lynette */
+   
+    .lynette{
+        float: left;
+    }
+
+    .lynette img {
+     margin-left: 25px;
+    }
+
+    .lynette figcaption{
+    margin-top: 10px;
+    width: 250px;  
+    }
+
+    /* Noelle */
+   
+    .noelle{
+        float: left;
+    }
+
+    .noelle img {
+     margin-left: 25px;
+    }
+
+    .noelle figcaption{
+    margin-top: 10px;
+    width: 250px;  
+    }
+
+    /* Declan */
+    .declan {
+        margin-left: 70px;
+        float: left;
+    }
+    .declan img {
+        margin-left: 25px;
+    }
+  
+    .declan figcaption {
+      margin-top: 10px;
+     width: 250px;
+  }
+
+
+/* Footer/ social networks */
+footer {
+    height: 50px;
+    
+}
+
 
 /* gallery */
 
@@ -68,8 +236,3 @@ nav ul {background-color: #fdd008;
 
 
 
-/* Footer/ social networks */
-footer {
-    height: 50px;
-    
-}
