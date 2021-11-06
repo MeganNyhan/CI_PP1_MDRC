@@ -1,7 +1,4 @@
 
-
-
-
 /* Header Image */
 
 #header-image {
@@ -23,7 +20,6 @@ nav ul {background-color: #fdd008;
         height:50px;
      }
 
-
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -34,9 +30,9 @@ nav ul {background-color: #fdd008;
 }
 
 #menu li {
-    float: right;
+    float: left;
     list-style-type: none;
-    margin-right: 250px;
+    margin-right: 90px;
 }
 
 #menu a {
@@ -51,7 +47,6 @@ nav ul {background-color: #fdd008;
 .active {
     border-bottom: 1px solid #3a3a3a;}
 
-
     /* Welcome */
 
     #welcome h1 {
@@ -65,6 +60,11 @@ nav ul {background-color: #fdd008;
         width: 70%;
         text-align: justify;
         padding-left: 200px;
+       
+    }
+
+    #welcome {
+       padding-bottom: 20px;
     }
 
     
@@ -74,10 +74,14 @@ nav ul {background-color: #fdd008;
     #about-us {
         background-color: #fff;
         width: 100%;
-        height: inherit; }
+        height: inherit;
+     }
 
     #about-us h1 {
-        margin-left: 110px;
+        margin-left: 45%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+
     }    
 
     .about p {
@@ -96,15 +100,20 @@ nav ul {background-color: #fdd008;
         padding-left: 70px;
 }
 
-
 /* Meet the Team */
 
+#meet-the-team {
+    width:100%;
+    margin-right:40px;
+
+}
 
 
 #meet-the-team h1 {
-    margin-left: 110px;
-    margin-bottom: 40px;
-} 
+    margin-left: 43%;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}   
 
 #meet-the-team img {
     border-radius: 50%;
@@ -126,9 +135,23 @@ figure {
     width: 220px;
   }
 
+  /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 30.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
   /* Richard */
   .richard img {
-      margin-left: 10px;
+      margin-left: 20px;
   }
 
   .richard figcaption {
@@ -136,14 +159,14 @@ figure {
 }
 
     .richard {
-        margin-left: 150px;
+        margin-left: 170px;
         float: left;
     }
 
     /* Jean */
     .jean {
-        margin-left: 70px;
-        float: left;
+        margin-left: 80px;
+        float: center;
     }
     .jean img {
         margin-left: 25px;
@@ -156,38 +179,40 @@ figure {
   
     /* Lesley */
 
-    .lesley {
-    float: right;  
-    margin-right: 150px;    
-    }
     .lesley img {
-    margin-left: 25px;
+    margin-left: 50px;
     }
 
     .lesley figcaption {
     margin-top: 10px;
     width: 250px;
+    margin-left: 900px;
+   
     }
 
   /* Lynette */
    
     .lynette{
         float: left;
-    }
+        }
 
     .lynette img {
-     margin-left: 25px;
+     margin-left: 200px;
+   
+
     }
 
     .lynette figcaption{
-    margin-top: 10px;
-    width: 250px;  
+        margin-left: 170px;
+        margin-top: 10px;
+        width: 250px;  
     }
 
     /* Noelle */
    
     .noelle{
-        float: left;
+        float: center;
+        margin-left: 80px;
     }
 
     .noelle img {
@@ -201,7 +226,7 @@ figure {
 
     /* Declan */
     .declan {
-        margin-left: 70px;
+        margin-left: 20px;
         float: left;
     }
     .declan img {
@@ -213,12 +238,41 @@ figure {
      width: 250px;
   }
 
-
 /* Footer/ social networks */
+/* footer */
+
 footer {
-    height: 50px;
-    
+    height: 150px;
+    background-color: #3850A2;
+    margin-top: 500px;
 }
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+/* -------------------- Services Page -------------------- */
+
+#services-header-image {
+    height: 575px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+
+
 
 
 /* gallery */
@@ -234,5 +288,16 @@ footer {
     width: 100%;
 }
 
+/** For medium screen sizes from 950px wide and down **/
 
+@media screen and (max-width: 275px){
 
+    #menu {
+        clear:left;
+        float: center;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 20px;
+        background-color: #fdd008;
+    }
+}
