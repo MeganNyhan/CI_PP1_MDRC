@@ -255,19 +255,30 @@ footer {
     margin-top: 350px;
 }
 
-.social-networks {
+.social-media {
     text-align: center;
 }
 
-.social-networks > li {
+.social-media > li {
     display: inline;
 }
 
-.social-networks i {
+.social-media i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+#services-footer{
+    margin-top: 50px;
+}
+#gallery-footer{
+    margin-top: 50px;
+}
+
+#contact-footer {
+    margin-top: 50px;
 }
 /* -------------------- Gallery ----------------------- */
 
@@ -411,26 +422,35 @@ footer {
 
 }
 #contact-header{
-    margin-left:22%;
+    margin-left: 100px; 
     text-transform: uppercase;
 
 }
 
 #contact-info{
-    margin: left 50px;
-    padding-top: 120px;
+    
+    margin-left: 100px; 
     text-transform: uppercase;
     width: 40%;
     float: right;
 }
 
 
+#contact-form{
+    margin-left: 100px; 
+
+}
+
+#contact-form-p {
+    margin-left: 100px;    
+}
+
 #map {
     align-items: right;
     max-width: 100%;
     margin-left: 100px; 
-    margin-top: 40px;
-
+    margin-top: 50px;
+    margin-bottom: 40px;
     
 }
 
@@ -439,3 +459,10 @@ footer {
     margin-top: 20px;
   
 }
+
+#form{ 
+    text-align: left;
+    width: 100%;
+    margin-left: 100px;;
+}
+

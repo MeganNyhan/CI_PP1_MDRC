@@ -72,32 +72,62 @@
 
                 <h2 id="contact-form"> Contact Form </h2>
                 <p id="contact-form-p"> Please FILL in your information and we will be in contact with you very shortly!</p>
-                <form action="POST" >
-                    <label> Your name </label>
-                        <input type="text"> <br>
-                        <label> Your Email </label>
+                
+                <section id="form">
+                 <form action="POST" >
+
+                    <!---- Source Code : Bootstrap (see readme for more info) ----->
+                    <div class="input-group">
+                        <span class="input-group-text">First and last name</span>
+                        <input type="text" aria-label="First name" class="form-control">
+                        <input type="text" aria-label="Last name" class="form-control">
+                      </div>
+
+                      <!--- End of boostrap source code --->
+
+
+                        <label> Your Email * </label>
                         <input type="email" required> <br>
-                        <label> Your Phone number </label>
+
+                        <label> Your Phone number * </label>
                         <input type="number" required> <br>
-                        <label> Message Subject </label>
-                        <input type="text" required> <br>
-                        <label> Message </label>
+            
+                        <label> Message Subject *</label>
                         <input type="text" required> <br>
 
+                 
+                        <label> Message * </label>
+                        <input type="text" required> <br>
                         <input type="submit"> 
                 </form>
+                </section>
 
-
-     </main>       
-            <div id="footer">
-                <footer>
-                   
-                    <ul class="social-networks">
-                        <li>
-                    <a href="https://www.facebook.com/MilfordDRC" aria-label="Link to our facebook page opens in new tab."></a>
-                        </li>
-                    </ul>
-                </footer>
-            </div>
+     </main> 
+     <footer>    
+     <div id="contact-footer">
+        
+           
+            <ul class="social-media">
+                <li>
+                    <a href="https://www.facebook.com/MilfordDRC" target="_blank" rel="noopener"
+                        aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/Milforddrc" target="_blank" rel="noopener"
+                        aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+                </li>
+            
+                <li>
+                    <a href="https://www.instagram.com/milforddrc/" target="_blank" rel="noopener"
+                        aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+                </li>
+            </ul>
+        
+     </div>
+    </footer>
     </header>
-    </body>
+    
+     <!-- font awesome script -->
+     <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
+</body>
+</html>
