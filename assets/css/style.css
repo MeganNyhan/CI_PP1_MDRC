@@ -329,7 +329,7 @@ footer {
 
 #section1 {
     background-color: #2EB0E5;
-    Width: 25%;
+    Width: 28%;
     height: 300px;
     float: left;
     margin-left: 20px;
@@ -338,16 +338,16 @@ footer {
 
 #section2 {
     background-color: #fff;
-    Width: 25%;
+    Width:  28%;
     height: 300px;
     float: left;
-    margin-left:150px;
+    margin-left:100px;
     text-align: center;
 }
 
 #section3 {
     background-color: #2EB0E5;
-    Width: 25%;
+    Width:  28%;
     height: 300px;
     float: right;
     margin-right: 20px;
@@ -356,7 +356,7 @@ footer {
 
 #section4 {
     background-color: #fff;
-    Width: 25%;
+    Width:  28%;
     height: 300px;
     float: left;
     margin-left: 20px;
@@ -365,24 +365,43 @@ footer {
 
 
 #section5 {
-    background-color: #fff;
-    Width: 25%;
+    background-color: #2EB0E5;
+    Width:  28%;
     height: 300px;
     float: left;
-    margin-left: 150px;
+    margin-left: 100px;
     text-align: center;
 }
 
 #section6 {
-    background-color: #2EB0E5;
-    Width: 25%;
+    background-color: #fff;
+    Width:  28%;
     height: 300px;
     float: right;
     margin-right: 20px;
     text-align: center;
 }
 
-/* ----------------------------- Contact Page  -----------------------------*/
+#services-list h2 {
+    margin-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left:10px;
+}
+
+#services-list p {
+    padding-right: 20px;
+    padding-left:20px;
+}
+#services-list {
+    margin-bottom: 80px;
+}
+
+#services-footer {
+    padding-top: 240px;
+}
+
+/*---------------------- Contact Page  -----------------------------*/
 
 #image-contact{
     height: 575px;
@@ -398,14 +417,25 @@ footer {
 }
 
 #contact-info{
-    margin-left:100px;
+    margin: left 50px;
+    padding-top: 120px;
     text-transform: uppercase;
     width: 40%;
+    float: right;
 }
 
 
 #map {
     align-items: right;
     max-width: 100%;
-    flex-basis: 500px;
+    margin-left: 100px; 
+    margin-top: 40px;
+
+    
+}
+
+
+.contact-button {
+    margin-top: 20px;
+  
 }
