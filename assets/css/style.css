@@ -298,6 +298,26 @@ footer {
     position: relative;
 }
 
+
+#services-welcome h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    
+}
+
+#services-welcome p {
+    width: 70%;
+    text-align: justify;
+    padding-left: 200px;
+   
+}
+
+#services-welcome {
+   padding-bottom: 20px;
+}
+
 /* Contact Page */
 
 #header-image-contact{
