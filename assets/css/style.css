@@ -295,6 +295,8 @@ footer {
 }
 /* -------------------- Services Page -------------------- */
 
+
+
 #services-header-image {
     height: 575px;
     width: 100%;
@@ -303,11 +305,13 @@ footer {
 }
 
 
-#services-welcome h1 {
+#services-welcome h1, h4{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     text-transform: uppercase;
+    margin-left:15%;
+    width: 70%;
     
 }
 
@@ -319,7 +323,63 @@ footer {
 }
 
 #services-welcome {
-   padding-bottom: 20px;
+   padding-bottom: 50px;
+}
+
+
+#section1 {
+    background-color: #2EB0E5;
+    Width: 25%;
+    height: 300px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#section2 {
+    background-color: #fff;
+    Width: 25%;
+    height: 300px;
+    float: left;
+    margin-left:150px;
+    text-align: center;
+}
+
+#section3 {
+    background-color: #2EB0E5;
+    Width: 25%;
+    height: 300px;
+    float: right;
+    margin-right: 20px;
+    text-align: center;
+}
+
+#section4 {
+    background-color: #fff;
+    Width: 25%;
+    height: 300px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+#section5 {
+    background-color: #fff;
+    Width: 25%;
+    height: 300px;
+    float: left;
+    margin-left: 150px;
+    text-align: center;
+}
+
+#section6 {
+    background-color: #2EB0E5;
+    Width: 25%;
+    height: 300px;
+    float: right;
+    margin-right: 20px;
+    text-align: center;
 }
 
 /* ----------------------------- Contact Page  -----------------------------*/
