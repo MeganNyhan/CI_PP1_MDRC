@@ -1,3 +1,16 @@
+#logo{
+    float:right;
+    text-transform: uppercase;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    letter-spacing: 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 140%;
+   
+}
+
 
 /* Header Image */
 
@@ -302,7 +315,10 @@ footer {
 
 #header-image-gallery{
     height: 560px;
-    padding-top: 40px;
+   
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
 /* -------------------- Services Page -------------------- */
 
