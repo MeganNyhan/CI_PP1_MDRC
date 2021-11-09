@@ -158,7 +158,28 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <h2><strong>Testing:</strong></h2>
 <h3><strong>HTML Validation</strong></h3>
-<p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation.</p>
+<p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
 <!---- Put in HTML PAGE Validations here----->
+<h3><strong>Home Page</strong></h3>
+
+<h3><strong>Services Page</strong></h3>
+
+<h3><strong>Gallery Page</strong></h3>
+
+<h3><strong>Contact Page</strong></h3>
+
+
+<h3><strong>CSS Validation</strong></h3>
+<p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
+
+<h3><strong>style.css</strong></h3>
+
+<h3><strong>Accessibility Test</strong></h3>
+<p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following:
+<ul>
+<li> 100 Performance</li>
+<li>89 Accessibility</li>
+<li> 93 Best Practices</li>
+<li> 100 SEO</li></ul> </p>
 
