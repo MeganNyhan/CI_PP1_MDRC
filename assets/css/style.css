@@ -1,4 +1,4 @@
-#logo h1{
+#logo {
     float:right;
     text-transform: uppercase;
     margin-right: 20px;
@@ -22,11 +22,11 @@
 nav{
     height: 5px;
     width: 100%;
-    float: center;
+    
 }
 
 nav ul {background-color: #fdd008;
-        width: relative;
+        width: 97.2%;
         height:50px;
      }
 
@@ -106,7 +106,7 @@ nav ul {background-color: #fdd008;
 }
 
     .about img {
-        float: center;
+       
         width: 30%;
         padding-right: 20px;
         height: 350px;
@@ -147,7 +147,7 @@ figure {
     font-style: italic;
     padding: 2px;
     text-align: center;
-    width: 250;
+    width: 250px;
   }
 
   /* Three image containers (use 25% for four, and 50% for two, etc) --- Code taken from W 3 Schools (More info in the read me file)---*/
@@ -181,7 +181,7 @@ figure {
     /* Jean */
     .jean {
         margin-left: 150px;
-        float: center;
+       
     }
     .jean img {
         margin-left: 25px;
@@ -226,7 +226,7 @@ figure {
     /* Noelle */
    
     .noelle{
-        float: center;
+      
         margin-left: 150px;
     }
 
@@ -303,7 +303,7 @@ footer {
     clear: both;
     line-height: 3;
     column-count: 3;
-    column-gap: 1;
+    column-gap: 1px;
 }
 
 #gallery-photos > img {
@@ -442,7 +442,7 @@ footer {
 
 #contact-info{
     
-    margin-left: 100px; 
+    margin-left: 70px; 
     text-transform: uppercase;
     width: 40%;
     float: right;
@@ -460,7 +460,7 @@ footer {
 }
 
 #map {
-    align-items: right;
+  
     max-width: 100%;
     margin-left: 100px; 
     margin-top: 50px;

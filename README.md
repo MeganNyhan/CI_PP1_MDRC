@@ -160,31 +160,41 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <h3><strong>HTML Validation</strong></h3>
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
-<!---- Put in HTML PAGE Validations here----->
+
 <h3><strong>Home Page</strong></h3>
+<img src="assets/images/home-page-html-validation.png">
 
 <h3><strong>Services Page</strong></h3>
+<img src="assets/images/services-page-html-validation.png">
 
 <h3><strong>Gallery Page</strong></h3>
+<img src="assets/images/gallery-page-html-validation.png">
 
 <h3><strong>Contact Page</strong></h3>
+<img src="assets/images/contact-html-validation.png">
 
 
 <h3><strong>CSS Validation</strong></h3>
 <p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
 
 <h3><strong>style.css</strong></h3>
-<!---Add CSS Screen Shot ----->
+<img src="assets/images/css-validation.png">
 
 <h3><strong>Accessibility Test</strong></h3>
-<p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following:
-<ul>
-<li> 100 Performance</li>
-<li>89 Accessibility</li>
-<li> 93 Best Practices</li>
-<li> 100 SEO</li></ul> </p>
+<p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following: </p>
+<hr>
+<h3>Home Page</h3> 
+<img src="assets/images/home-page-accessibility.png">
+<hr>
+<h3>Services Page</h3> 
+<img src="assets/images/services-accessibility.png">
+<hr>
+<h3>Gallery Page</h3> 
+<img src="assets/images/gallery-accessibility.png">
+<hr>
+<h3>Contact Page</h3> 
+<img src="assets/images/contact-accesibility.png">
 
-<!---Add accesibility screen shot ----->
 
 <h2><strong>Bugs:</strong></h2>
 <hr>
