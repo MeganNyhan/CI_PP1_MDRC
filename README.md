@@ -76,7 +76,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
   <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available to be as a member of the organisation. To verfiy the contrast in colours were accessible I tested them on WebAIM which they all passed as readable. </p>
 
-  <!---- Put in brand guidelines ----->
+  <img src="assets/images/mdrc brand guidelines (1).png">
 
   <h3><strong>Fonts</strong></h3>
   <p>Fonts used on the website were Open Sans Bold and Open Sans Light. Open sans bold was used for headings and open sans light was used in paragraphs.</p>
@@ -90,9 +90,24 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> A gallery page = Offers the user a chance to see possible familiar faces taking part in local activites/ meetings.    This page aims to encourage the user to want to partake in the activites/ events themselves.</li>
 <li> A Contact Page = Gives the user contact information and a google maps view of where the building is. There is also a contact form for a user to use to contact the comapny.</li>
 
+<hr>
+
 <h3><strong>Wireframes</strong></h3>
 
-<!--- Add images of the wireframes here----->
+<p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far developed and changes I have made personally to the look of the site when building it.</p>
+
+<h4>Home Page</h4>
+<img src="assets/images/New Wireframe 1.png">
+
+<h4>Services Page</h4>
+<img src="assets/images/wireframe2.png">
+
+<h4>Gallery Page</h4>
+<img src="assets/images/wireframe3.png">
+
+<h4>Contact Page</h4>
+<img src="assets/images/wireframe4.png">
+
 
 
 <hr>
@@ -236,6 +251,12 @@ Gallery Images:
 <li>https://www.pexels.com/photo/photo-of-man-sitting-in-front-of-people-3184299/ Photo by fauxels from Pexels </li>
 
 <li>https://www.pexels.com/photo/group-of-multiethnic-people-gathering-around-female-speaker-in-studio-3856027/Photo by Matheus Bertelli from Pexels</li>
+
+<li>https://www.pexels.com/photo/women-sitting-on-chairs-inside-a-room-3719037/ Photo by Dani Hart from Pexels</li>
+
+<li>https://www.pexels.com/photo/food-man-people-woman-6591166/ Photo by cottonbro from Pexels</li>
+
+<li>https://www.pexels.com/photo/ground-group-growth-hands-461049/ Photo by Pixabay from Pexels</li>
 
 </ul>
 

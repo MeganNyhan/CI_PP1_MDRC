@@ -5,7 +5,7 @@
     letter-spacing: 5px;
     text-decoration: none;
     color: black;
-    font-size: large;
+    font-size: 23px;
 }
 
 
@@ -260,8 +260,8 @@ figure {
 /* footer */
 
 footer {
-    height: 50px;
-    background-color: #3850A2;
+    height: 20px;
+    background-color: #fdd008;
     margin-top: 350px;
 }
 
@@ -274,22 +274,13 @@ footer {
 }
 
 .social-media i {
-    font-size: 160%;
+    font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: black;
 }
 
-#services-footer{
-    margin-top: 50px;
-}
-#gallery-footer{
-    margin-top: 50px;
-}
 
-#contact-footer {
-    margin-top: 50px;
-}
 /* -------------------- Gallery ----------------------- */
 
 .gallery-heading {
@@ -301,21 +292,24 @@ footer {
 
 #gallery-photos {
     clear: both;
-    line-height: 3;
     column-count: 3;
-    column-gap: 1px;
+    column-gap: 0;
 }
 
 #gallery-photos > img {
     width: 100%;
+    
 }
 
 #header-image-gallery{
     height: 560px;
-   
     width: 100%;
     overflow: hidden;
     position: relative;
+}
+
+#gallery-footer{
+    margin-top: 20px;
 }
 /* -------------------- Services Page -------------------- */
 
@@ -477,6 +471,7 @@ footer {
 #form{ 
     text-align: left;
     width: 100%;
-    margin-left: 100px;;
+    margin-left: 100px;
+   
 }
 
