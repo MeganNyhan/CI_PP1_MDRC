@@ -174,6 +174,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
 
 <h3><strong>style.css</strong></h3>
+<!---Add CSS Screen Shot ----->
 
 <h3><strong>Accessibility Test</strong></h3>
 <p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following:
@@ -183,3 +184,68 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> 93 Best Practices</li>
 <li> 100 SEO</li></ul> </p>
 
+<!---Add accesibility screen shot ----->
+
+<h2><strong>Bugs:</strong></h2>
+<hr>
+
+<h2><strong>Deployment:</strong></h2>
+<hr>
+
+<h2><strong>Credits:</strong></h2>
+<p> Images not li nked and referenced below were designed and taken by the author.</p>
+
+<h3> Site Images:</h3>
+<ul><li> https://pbs.twimg.com/profile_banners/1442473373020213248/1632836293/1500x500 Designed by Declan Meehan featured on Twitter</li>
+
+<li> Google Maps Link: https://www.google.com/maps/place/Milford+%26+District+Resource+Centre/@55.0895701,-7.6994824,15z/data=!4m2!3m1!1s0x0:0x1295c52d66ece440?sa=X&ved=2ahUKEwjz_M3qvPzzAhWSSsAKHQfTAC0Q_BJ6BAhcEAU Designed by Google maps</li>
+
+<li>https://www.pexels.com/photo/gray-and-black-laptop-computer-2764666/ Photo by Oleg Magni from Pexels </li>
+
+
+<li>https://thisismilford.com/wp-content/uploads/2020/02/mdrc10166-1024x768.jpg photo by Declan Meehan on MDRC.ie</li>
+
+
+Gallery Images:
+
+<ul>
+<li>https://www.pexels.com/photo/unrecognizable-man-surfing-on-surfboard-in-ocean-7952882/ Photo by Инна Работягина from Pexels </li>
+
+<li>https://www.pexels.com/photo/fit-woman-practicing-yoga-in-studio-7593192/ Photo by Miriam Alonso from Pexels </li>
+
+<li> https://www.pexels.com/photo/couple-sitting-on-the-wooden-floor-7648357/ Photo by Artem Podrez from Pexels</li>
+
+<li>https://www.pexels.com/photo/positive-woman-in-boxing-gloves-7991649/ Photo by Annushka Ahuja from Pexels </li>
+
+<li>https://www.pexels.com/photo/multiethnic-couple-of-travelers-with-backpacks-7968269/ Photo by George Pak from Pexels </li>
+
+<li>https://www.pexels.com/photo/a-cyclist-holding-his-bicycle-5836952/ Photo by RODNAE Productions from Pexels </li>
+
+<li>https://www.pexels.com/photo/crop-ethnic-psychologist-writing-on-clipboard-during-session-5699456/ Photo by Alex Green from Pexels</li>
+
+<li>https://www.pexels.com/photo/photo-of-man-sitting-in-front-of-people-3184299/ Photo by fauxels from Pexels </li>
+
+<li>https://www.pexels.com/photo/group-of-multiethnic-people-gathering-around-female-speaker-in-studio-3856027/Photo by Matheus Bertelli from Pexels</li>
+
+</ul>
+
+<h3> Source Code Used in Site</h3>
+
+<p> Due to limitations in my knowledge I google certain code that I wanted to use for the site, see code listed below:</p>
+<ul>
+<li> The meet the team code (both HTML and CSS) was taken from the following site: https://www.w3schools.com/howto/ howto_css_images_side_by_side.asp </li>
+
+<li> The map code was taken from the following code: https://stackoverflow.com/questions/5756440/aligning-google-map-with-text </li>
+
+<li> Code to help with the contact form was taken from bootstrap: https://getbootstrap.com/docs/5.1/forms/form-control/ </li>
+
+<li>I also referenced the Love-Running project to help with the grid for the Gallery Section and the social links from the footer. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li>
+<hr>
+<h2><strong>Acknowledgements:</strong></h2>
+<p> I would like to take this oppurtuinity to thank and acknowlege the following people:
+<ul>
+<li> I would like to thank Mo Shami - my mentor - for his feedback and guidence whilst creating the project.</li>
+<li> I would like to thank those on the code institute slack channel for help with any issues I had.</li>
+<li> I would like to thank my manager who helped me with Site Owner's stories to help guide the creation and purpose of the site.</li>
+</ul>
+</p>
