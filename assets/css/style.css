@@ -459,6 +459,8 @@ footer {
     margin-left: 100px; 
     margin-top: 50px;
     margin-bottom: 40px;
+    width:600; 
+    height:500;
     
 }
 
@@ -857,5 +859,91 @@ footer {
     padding-bottom: 20px;
 }
 
+/* --------------Gallery Page ---------------- */
+.gallery-heading {
+    padding-left: 20px;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#gallery-photos {
+    clear: both;
+    column-count: 1;
+    column-gap: 0;
+}
+
+#gallery-photos > img {
+    width: 100%;
     
+}
+
+#header-image-gallery{
+    height: 560px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/*---------------------- Contact Page  -----------------------------*/
+
+#image-contact{
+    height: 575px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+#contact-header{
+    margin-left: 20px; 
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+#contact-info{
+    
+    margin-left: 110px; 
+    text-transform: uppercase;
+    width: 40%;
+    float: left;
+    text-align: center;
+
+}
+
+
+#contact-form{
+    margin-left: 20px; 
+    margin-top: 20px;
+
+}
+
+#contact-form-p {
+    margin-left: 40px;    
+}
+
+#map {
+  
+    max-width: 10px;
+   margin-top: 50px;
+    margin-bottom: 400px;
+    margin-left: 20px;
+    width:200px; 
+    height:300px;
+    
+}
+
+
+.contact-button {
+    margin-top: 40px;
+  
+}
+
+#form{ 
+    text-align: left;
+    width: 100%;
+    margin-left: 20px;
+   
+}
 }
