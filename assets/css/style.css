@@ -1,3 +1,6 @@
+
+
+
 #logo {
     float:right;
     text-transform: uppercase;
@@ -477,11 +480,11 @@ footer {
    
 }
 
-                            /*-------Media Queries--------*/
+                                                                             /*-------Media Queries--------*/
 
                             /* Home page */
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:828px) {
 
     /* Header Image */
 
@@ -495,23 +498,23 @@ footer {
 
 /* Navigation */
 nav{
-    height: 20px;
-    width: 91%;
+    height: 10px;
+    width: 94%;
     
 }
 
 nav ul {background-color: #fdd008;
-        width: 97.2%;
-        height:200px;
+        width: 95%;
+        height:60px;
      }
 
 #menu {
-    font-size: 110%;
+    font-size: 90%;
     letter-spacing: 4px;
 }
 
 #menu {
-    line-height: 50px;
+    line-height: 15px;
 }
 
 #menu li {
@@ -530,9 +533,8 @@ nav ul {background-color: #fdd008;
     border-bottom: 1px solid #3a3a3a;
 }
 
-.active {
-    border-bottom: 1px solid #3a3a3a;}
-    
+   
+
 
     /* -------------- Welcome ----------------- */
 
@@ -598,7 +600,7 @@ nav ul {background-color: #fdd008;
 
 
 #meet-the-team h1 {
-    float:left;
+        float:left;
         padding-top: 20px;
         padding-bottom: 20px;
         text-transform: uppercase;
@@ -607,124 +609,125 @@ nav ul {background-color: #fdd008;
 
 #meet-the-team img {
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
+}
+figcaption {
+    font-size: smalls;
+    width: 180px;
+    margin-left:10px;
+    
 }
 
-figure {
-    padding: 4px;
-    margin: auto;
-  }
-  
-  figcaption {
-    background-color: white;
-    color: black;
-    font-style: italic;
-    padding: 2px;
-    text-align: center;
-    width: 250px;
-    
-  }
-
-  /* Richard */
-  .richard img {
+.richard {
+    float: left;
     margin-left: 20px;
 }
 
-.richard figcaption {
-  margin-top: 10px;
-}
 
-  .richard {
-      margin-left: 60px;
-      float: left;
-  }
-
-  /* Jean */
-  .jean {
-    margin-left: 25px;
-  
-    float: right;
-     
-  }
-  .jean img {
-    
-      margin-left: 25px;
-  }
-
-  .jean figcaption {
-    margin-top: 10px;
-   width: 250px;
-}
-
-  /* Lesley */
- 
-  .lesley img {
-  margin-left: 150px;
-  }
-
-  .lesley figcaption {
-  margin-top: 10px;
-  width: 250px;
-  margin-left: 1000px;
- 
-  }
-
-  .lesley{
-   margin-right: 50px;
+.richard  img{
     float: left;
-  }
-
-/* Lynette */
- 
-  .lynette{
-      float: left;
-      }
-
-  .lynette img {
-   margin-left: 220px;
- 
-
-  }
-
-  .lynette figcaption{
-      margin-left: 170px;
-      margin-top: 10px;
-      width: 250px;  
-  }
-
-  /* Noelle */
- 
-  .noelle{
-    
-      margin-left: 150px;
-  }
-
-  .noelle img {
-   margin-left: 25px;
-  }
-
-  .noelle figcaption{
-  margin-top: 10px;
-  width: 250px;  
-  }
-
-  /* Declan */
-  .declan {
-      margin-left: 60px;
-
-      float: left;
-  }
-  .declan img {
-      margin-left: 100px;
-      
-  }
-
-  .declan figcaption {
-    margin-top: 10px;
-   width: 250px;
-   margin-left: 60px;
+    margin-left: 1px;
+    padding-bottom: 10px;
 }
+
+.richard figcaption{
+    float:right;
+    text-align: left;
+}
+
+.jean {
+    float: right;
+    
+}
+
+.jean img{
+    float: right;
+   
+    padding-bottom: 10px;
+}
+
+.jean figcaption{
+   margin-right: 120px;
+    padding-bottom: 10px;
+    text-align: right;
+    width: 220px;
+}
+  
+ 
+.lesley {
+    float: left;
+   
+}
+
+
+.lesley img{
+    float: left;
+    margin-left: 1px;
+    padding-bottom: 10px;
+} 
+  
+  .lesley figcaption{
+    
+    margin-left: 120px;
+    text-align: left;
+    width: 220px;
+}
+
+.lynette {
+    float: right;
+    
+}
+
+.lynette img{
+    float: right;
+    margin-left: 10px;
+   
+    padding-bottom: 10px;
+}
+
+.lynette figcaption{
+   margin-left: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+    width: 350px;
+}
+
+
+.noelle{
+    float: left;
+    margin-left: 20px;
+}
+
+
+.noelle img{
+    float: left;
+    margin-left: 1px;
+    padding-bottom: 10px;
+}
+
+.noelle figcaption{
+    float:right;
+    text-align: left;
+    width: 210px;
+}
+
+.declan{
+    float: right;
+    
+}
+
+.declan img{
+    float: right;
+   margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.declan figcaption{
+    
+    text-align: right;
+    margin-right: 40px;
+    width: 300px;}
 
 
 /* Footer/ social networks */
@@ -904,11 +907,12 @@ footer {
 
 #contact-info{
     
-    margin-left: 110px; 
+    margin-left: 120px; 
     text-transform: uppercase;
     width: 40%;
     float: left;
     text-align: center;
+    margin-bottom: 20px;
 
 }
 
@@ -920,16 +924,16 @@ footer {
 }
 
 #contact-form-p {
-    margin-left: 40px;    
+    margin-left: 20px;    
 }
 
 #map {
   
-    max-width: 10px;
+    
    margin-top: 50px;
-    margin-bottom: 400px;
-    margin-left: 20px;
-    width:200px; 
+    margin-bottom: 450px;
+    margin-left: 40px;
+    width:100%; 
     height:300px;
     
 }
@@ -946,4 +950,6 @@ footer {
     margin-left: 20px;
    
 }
+
+
 }
