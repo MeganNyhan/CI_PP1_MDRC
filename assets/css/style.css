@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 
 #logo {
@@ -9,9 +9,12 @@
     text-decoration: none;
     color: black;
     font-size: 23px;
+    font-family: Open Sans ;
 }
 
-
+h1, h2, h3, p, nav, menu{
+    font-family: Open Sans;
+}
 /* Header Image */
 
 #header-image {
@@ -153,37 +156,29 @@ figure {
     width: 250px;
   }
 
-  /* Three image containers (use 25% for four, and 50% for two, etc) --- Code taken from W 3 Schools (More info in the read me file)---*/
-.column {
-    float: left;
-    width: 30.33%;
-    padding: 5px;
-  }
-  
-  /* Clear floats after image containers */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
 
   /* Richard */
-  .richard img {
-      margin-left: 50px;
-  }
+ 
+  
 
   .richard figcaption {
     margin-top: 10px;
+    margin-right: 30px;
 }
 
     .richard {
-        margin-left: 170px;
+        margin-left:190px;
         float: left;
+    }
+
+    .richard img{
+        margin-left: 30px;
     }
 
     /* Jean */
     .jean {
-        margin-left: 150px;
+        margin-left: 110px;
+        float: left;
        
     }
     .jean img {
@@ -229,7 +224,7 @@ figure {
     /* Noelle */
    
     .noelle{
-      
+      float: left;
         margin-left: 150px;
     }
 
@@ -262,7 +257,7 @@ figure {
 /* Footer/ social networks */
 /* footer */
 
-footer {
+#home-footer {
     height: 20px;
     background-color: #fdd008;
     margin-top: 350px;
@@ -462,8 +457,8 @@ footer {
     margin-left: 100px; 
     margin-top: 50px;
     margin-bottom: 40px;
-    width:600; 
-    height:500;
+    width:600px; 
+    height:500px;
     
 }
 
@@ -613,7 +608,7 @@ nav ul {background-color: #fdd008;
     width: 100px;
 }
 figcaption {
-    font-size: smalls;
+    font-size: small;
     width: 180px;
     margin-left:10px;
     
