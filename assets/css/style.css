@@ -464,18 +464,16 @@ nav ul {background-color: #fdd008;
 }
 
 #contact-form-p {
-    margin-left: 100px;    
+    margin-left: 150px;    
 }
 
 #map {
-  
     max-width: 100%;
-    margin-left: 100px; 
+    margin-left: 150px; 
     margin-top: 50px;
     margin-bottom: 40px;
-    width:600px; 
-    height:500px;
-    
+    width: auto; 
+    height: auto;  
 }
 
 
@@ -487,8 +485,14 @@ nav ul {background-color: #fdd008;
 #form{ 
     text-align: left;
     width: 100%;
-    margin-left: 100px;
-   
+    margin-left: 150px;
+}
+
+#contact-footer {
+    height: 20px;
+    background-color: #fdd008;
+    margin-top: 100px;
+    
 }
 
                      /*-------Media Queries--------*/
