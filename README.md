@@ -108,8 +108,6 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <h4>Contact Page</h4>
 <img src="assets/images/wireframe4.png">
 
-
-
 <hr>
 
 <h2><strong>Features:</strong></h2>
@@ -221,7 +219,11 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <p> Images not li nked and referenced below were designed and taken by the author.</p>
 
 <h3> Site Images:</h3>
-<ul><li> https://pbs.twimg.com/profile_banners/1442473373020213248/1632836293/1500x500 Designed by Declan Meehan featured on Twitter</li>
+<ul>
+
+<li>https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/ Photo by Christina Morillo from Pexels</li>
+
+<li> https://pbs.twimg.com/profile_banners/1442473373020213248/1632836293/1500x500 Designed by Declan Meehan featured on Twitter</li>
 
 <li> Google Maps Link: https://www.google.com/maps/place/Milford+%26+District+Resource+Centre/@55.0895701,-7.6994824,15z/data=!4m2!3m1!1s0x0:0x1295c52d66ece440?sa=X&ved=2ahUKEwjz_M3qvPzzAhWSSsAKHQfTAC0Q_BJ6BAhcEAU Designed by Google maps</li>
 
