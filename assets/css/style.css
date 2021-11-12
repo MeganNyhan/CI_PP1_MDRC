@@ -439,9 +439,9 @@ nav ul {background-color: #fdd008;
 
 }
 #contact-header{
-    margin-left: 100px; 
+    margin-left: 40px; 
     text-transform: uppercase;
-    padding-left: 30px;
+    
 }
 
 #image-contact {
@@ -450,16 +450,15 @@ nav ul {background-color: #fdd008;
 
 #contact-info{
     
-    margin-left: 70px; 
+    margin-left: 60px; 
     text-transform: uppercase;
     width: 40%;
     float: right;
-
 }
 
 
 #contact-form{
-    margin-left: 100px; 
+    padding-top:50px; 
 
 }
 
@@ -495,7 +494,7 @@ nav ul {background-color: #fdd008;
     
 }
 
-                     /*-------Media Queries--------*/
+                     /*-------Media Queries Tablet--------*/
 
                             /* Home page */
 
@@ -773,11 +772,13 @@ footer {
 
 
 
-#services-header-image {
-    height: 575px;
-    width: 100%;
+#services-header-image{
+    height: 500px;
+    width: 340px;
     overflow: hidden;
     position: relative;
+    padding-left: 10px;
+    padding-top: 20px;
 }
 
 
@@ -872,14 +873,486 @@ footer {
     margin-bottom: 80px;
 }
 
-#services-footer {
-    padding-top: 1700px;
+
+
+/* --------------Gallery Page ---------------- */
+.gallery-header{
+    height: 500px;
+    width: 340px;
+    overflow: hidden;
+    position: relative;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.gallery-heading{
+    padding-right: 50px;
+}
+
+#gallery-photos {
+    clear: both;
+    column-count: 1;
+    column-gap: 0;
+}
+
+#gallery-photos > img {
+    width: 100%;  
+}
+
+/*---------------------- Contact Page  -----------------------------*/
+
+#image-contact{
+    height: 500px;
+    width: 200px;
+    overflow: hidden;
+    position: relative;
+    padding-left: 2px;
+    padding-top: 20px;
+
+}
+#contact-header{
+    
+    text-transform: uppercase;
+    text-align: center;
+    padding-right: 40px;
+
+}
+
+#contact-info{
+    margin-left: 90px; 
+    text-transform: uppercase;
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+#contact-form{
+    margin-left: 20px; 
+    margin-top: 40px;
+
+}
+
+#contact-form-p {
+    margin-left: 20px;    
+}
+
+#map {
+  
+    
+   margin-top: 50px;
+    margin-bottom: 450px;
+    margin-left: 40px;
+    width:100%; 
+    height:300px;
+    
+}
+
+
+.contact-button {
+    margin-top: 40px;
+  
+}
+
+#form{ 
+    text-align: left;
+    width: 100%;
+    margin-left: 20px;
+   
+}
+
+
+}
+ /* Mobile phone media querie */
+
+@media screen and (max-width:375px) {
+
+        /* Header Image */
+
+#header-image {
+    height: 500px;
+    width: 320px;
+    margin-left:20px;
+    padding-top: 20px;
+}
+
+/* Navigation */
+nav{
+    height: 10px;
+    width: 94%;
+    
+}
+
+nav ul {background-color: #fdd008;
+        width: 95%;
+        height:70px;
+     }
+
+#menu {
+    font-size: 90%;
+    letter-spacing: 4px;
+}
+
+#menu {
+    line-height: 15px;
+}
+
+#menu li {
+    text-transform: uppercase;
+    float: left;
+    list-style-type: none;
+    margin-right: 90px;
+    padding-top: 2px;
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+#logo{ padding-top: 10px}
+
+   
+
+
+    /* -------------- Welcome ----------------- */
+
+    #welcome h1 {
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-transform: uppercase;
+        
+    }
+
+    #welcome p {
+        width: 90%;
+        text-align: justify;
+        padding-left: 20px;
+       
+    }
+
+    #welcome {
+       padding-bottom: 20px;
+    }
+
+    
+
+    /* about us text */
+
+    #about-us {
+        background-color: #fff;
+        width: 100%;
+        height: inherit;
+     }
+
+    #about-us h1 {
+       
+        float:left;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-transform: uppercase;
+        margin-left: 33%;
+    }    
+
+    .about p {
+        padding-top: 10px;
+        width: 90%;
+        float: left;
+        padding-left: 20px;
+        text-align: justify;
+}
+
+    .about img {
+       
+        width: 90%;
+        padding-right: 20px;
+        height: 270px;
+        padding-left: 20px;
+}
+
+/* Meet the Team */
+
+#meet-the-team {
+    width:100%;
+    margin-left: 5px;
+    margin-top:20px
+
+}
+
+
+#meet-the-team h1 {
+        float:left;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-transform: uppercase;
+        margin-left: 25%;
+}   
+
+#meet-the-team img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+figcaption {
+    font-size: small;
+    width: 180px;
+    margin-left:10px;
+    
+}
+
+.richard {
+    float: left;
+    
+}
+
+
+.richard  img{
+    float: left;
+    margin-left: px;
+    padding-bottom: 10px;
+}
+
+.richard figcaption{
+    float:right;
+    text-align: left;
+}
+
+.jean {
+    float: right;
+    
+}
+
+.jean img{
+    float: right;
+    padding-bottom: 10px;
+}
+
+.jean figcaption{
+   margin-right: 120px;
+    padding-bottom: 10px;
+    text-align: right;
+    width: 220px;
+}
+  
+ 
+.lesley {
+    float: left;
+}
+
+
+.lesley img{
+    float: left;
+    margin-left: 1px;
+    padding-bottom: 10px;
+} 
+  
+  .lesley figcaption{
+    
+    margin-left: 120px;
+    text-align: left;
+    width: 220px;
+}
+
+.lynette {
+    float: right;
+    
+}
+
+.lynette img{
+    float: right;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.lynette figcaption{
+   margin-left: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+    width: 350px;
+}
+
+
+.noelle{
+    float: left;
+    margin-left: 20px;
+}
+
+
+.noelle img{
+    float: left;
+    margin-left: 1px;
+    padding-bottom: 10px;
+}
+
+.noelle figcaption{
+    float:right;
+    text-align: left;
+    width: 210px;
+}
+
+.declan{
+    float: right;
+    
+}
+
+.declan img{
+    float: right;
+   margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.declan figcaption{
+    
+    text-align: right;
+    margin-right: 40px;
+    width: 300px;}
+
+
+/* Footer/ social networks */
+/* footer */
+
+#home-footer {
+    height: 10px;
+    background-color: #fdd008;
+    margin-top: 850px;
+    padding-bottom: 5px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
+}
+
+/* -------------------- Services Page -------------------- */
+
+
+
+#services-header-image {
+    height: 500px;
+    width: 320px;
+    margin-left: 1px;
+    padding-right: 10px;}
+   
+
+
+#services-welcome h1, h4{
+    text-align: center;
+    padding-top: 20px;
     padding-bottom: 20px;
+    text-transform: uppercase;
+    margin-left:15%;
+    width: 70%;
+    
+}
+
+#services-welcome p {
+    width: 90%;
+    text-align: justify;
+    padding-left: 20px;
+   
+}
+
+#services-welcome {
+   padding-bottom: 10px;
+}
+
+
+#section1 {
+    background-color: #2EB0E5;
+    Width: 90%;
+    height: 350px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#section2 {
+    background-color: #fff;
+    Width: 90%;
+    height: 350px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#section3 {
+    background-color: #2EB0E5;
+    Width: 90%;
+    height: 350px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;}
+
+#section4 {
+    background-color: #fff;
+    Width: 90%;
+    height: 350px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+#section5 {
+    background-color: #2EB0E5;
+    Width: 90%;
+    height: 350px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#section6 {
+    background-color: #fff;
+    Width: 90%;
+    height: 400px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#services-list h2 {
+    margin-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left:10px;
+}
+
+#services-list p {
+    padding-right: 20px;
+    padding-left:20px;
+}
+#services-list {
+    margin-bottom: 80px;
+}
+
+#services-footer {
+    height: 10px;
+    background-color: #fdd008;
+    margin-bottom: 5px;
+    margin-top: 2200px;
 }
 
 /* --------------Gallery Page ---------------- */
 .gallery-heading {
-    padding-left: 20px;
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -902,6 +1375,11 @@ footer {
     width: 100%;
     overflow: hidden;
     position: relative;
+    margin-left: 10px;
+}
+
+#gallery-footer{
+    margin-top: 10px;
 }
 
 /*---------------------- Contact Page  -----------------------------*/
@@ -913,23 +1391,17 @@ footer {
     position: relative;
 
 }
-#contact-header{
-    margin-left: 20px; 
-    text-transform: uppercase;
-    text-align: center;
 
-}
 
 #contact-info{
-    
-    margin-left: 120px; 
+    margin-left: 105px; 
     text-transform: uppercase;
     width: 40%;
     float: left;
     text-align: center;
     margin-bottom: 20px;
-
 }
+
 
 
 #contact-form{
@@ -943,8 +1415,6 @@ footer {
 }
 
 #map {
-  
-    
    margin-top: 50px;
     margin-bottom: 450px;
     margin-left: 40px;
