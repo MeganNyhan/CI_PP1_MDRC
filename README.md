@@ -6,7 +6,7 @@
 
 <img src="assets/images/iphone_responsive.png">
 
-<a href="https://megannyhan.github.io/Project_1/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener"></a>
+<a href="https://megannyhan.github.io/CI_PP1_MDRC/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener"></a>
 
 <br>
 <br>
