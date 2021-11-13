@@ -79,7 +79,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
   <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available to be as a member of the organisation. To verfiy the contrast in colours were accessible I tested them on WebAIM which they all passed as readable. </p>
 
-  <img src="assets/images/mdrc-brand-guidelines.png">
+<details><summary>Colours and Brand Guidelines</summary>
+  <img src="assets/images/mdrc-brand-guidelines.png"></details>
 
   <h3><strong>Fonts</strong></h3>
   <p>Fonts used on the website were Open Sans Bold and Open Sans Light. Open sans bold was used for headings and open sans light was used in paragraphs.</p>
@@ -146,7 +147,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>The welcome section of the site offers a quick introduction to the company. </li>
     <li> It also include an image of the building so the office is easily identifiable and eay to locate.</li>
     </ul>
-     <h4>Meet the Team Section</h4>
+    <h4>Meet the Team Section</h4>
      <ul>
      <li>
      Also featured on the main page is a meet the team section which shows the user who they can expect to see when they visit the office.  </li>
@@ -199,19 +200,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <h3><strong>Accessibility Test and Performance</strong></h3>
 <p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following: </p>
-<hr>
 <details><summary>Home page</summary>
 <img src="assets/images/home-page-accessibility.png"></details>
-<hr>
 <details><summary>Services page</summary> 
 <img src="assets/images/services-accessibility.png"></details>
-<hr>
 <details><summary>Gallery page</summary>
 <img src="assets/images/gallery-accessibility.png"></details>
-<hr>
 <details><summary>Contact page</summary>
 <img src="assets/images/contact-accesibility.png"></details>
-<hr>
+
 <h2><strong>Performance</strong></h2>
 <p>The site was tested on the following decives:</p>
 <ol>
@@ -224,7 +221,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li>Google Chrome</li>
 <li>Safari</li>
 <li>Firefox</li>
-
+</ol>
 
 <h2><strong>Bugs:</strong></h2>
 <hr>
@@ -237,7 +234,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> Then on the left hand-side in the menu, select "Pages".</li>
 <li> The where it says source, used the dropdown menu to select "Main".</li>
 <li> After a few moments, refresh the website and you should have a pop-up come up to tell you that "Your site has been published" with your link coming after.</li>
-
+</ol>
 <p> My link is: https://megannyhan.github.io/CI_PP1_MDRC/ </p>
 <hr>
 
@@ -257,8 +254,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 
 <li>https://thisismilford.com/wp-content/uploads/2020/02/mdrc10166-1024x768.jpg photo by Declan Meehan on MDRC.ie</li>
-
-
+</ul>
 Gallery Images:
 
 <ul>
