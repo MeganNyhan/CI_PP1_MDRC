@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
+/*--- Logo ---*/
 
 #logo {
     float:right;
@@ -10,268 +11,194 @@
     font-size: 20px;
     font-family: Open Sans ;
     margin-right: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 10px;}
 
-}
+/* ---- Heading ----*/
 
 h1, h2, h3, p, nav, menu{
-    font-family: Open Sans;
-}
+                        font-family: Open Sans;}
+
 /* Header Image */
 
 #header-image {
-    height: 500px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-  
-}
+            height: 500px;
+            width: 100%;
+            overflow: hidden;
+            position: relative;}
 
 /* Navigation */
+
 nav{
     height: 5px;
-    width: 100%;
-    
-}
-
+    width: 100%;}
 nav ul {background-color: #fdd008;
         width: 97.2%;
-        height:50px;
-       
-     }
+        height:50px;}
 
 #menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-}
-
+        font-size: 110%;
+        letter-spacing: 4px;}
 #menu {
-    line-height: 50px;
+        line-height: 50px;
 }
-
 #menu li {
-    text-transform: uppercase;
-    float: left;
-    list-style-type: none;
-    margin-right: 90px;
-}
-
+         text-transform: uppercase;
+         float: left;
+         list-style-type: none;
+         margin-right: 90px;}
 #menu a {
     text-decoration: none;
     color: inherit;
 }
-
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
-
 .active {
     border-bottom: 1px solid #3a3a3a;}
 
-    /* Welcome */
+/*---- Welcome ----*/
 
-    #welcome h1 {
+#welcome h1 {
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
-        text-transform: uppercase;
-        
-    }
-
-    #welcome p {
+        text-transform: uppercase;}
+#welcome p {
         width: 70%;
         text-align: justify;
-        padding-left: 200px;
-       
-    }
+        padding-left: 200px;}
+#welcome {
+       padding-bottom: 20px;}
 
-    #welcome {
-       padding-bottom: 20px;
-    }
+/*---- about us text ----*/
 
-    
-
-    /* about us text */
-
-    #about-us {
+#about-us {
         background-color: #fff;
         width: 100%;
-        height: inherit;
-     }
-
-    #about-us h1 {
+        height: inherit;}
+#about-us h1 {
         margin-left: 45%;
         padding-top: 20px;
         padding-bottom: 10px;
-        text-transform: uppercase;
-
-    }    
-
-    .about p {
+        text-transform: uppercase;}    
+.about p {
         width: 40%;
         float: left;
         padding-left: 175px;
-        text-align: justify;
-}
-
-    .about img {
-       
+        text-align: justify;}
+.about img {
         width: 30%;
         padding-right: 20px;
         height: 350px;
         padding-left: 70px;
-        margin-bottom: 10px;
-}
+        margin-bottom: 10px;}
 
-/* Meet the Team */
+/*---- Meet the Team ----*/
 
-    #meet-the-team {
-        width:100%;
-}
-
-
-    #meet-the-team h1 { 
+#meet-the-team {
+        width:100%;}
+#meet-the-team h1 { 
         padding-top: 80px;
         padding-bottom: 10px;
         text-transform: uppercase;
-        padding-left: 45%;
-}   
-
-    #meet-the-team img {
+        padding-left: 45%;}   
+#meet-the-team img {
         border-radius:50%;
         height: 200px;
-        width: 200px;
-    
-}
-  figure {
+        width: 200px;}
+figure {
      padding: 4px;
-     margin: auto;
-  }
-  
-  figcaption {
+     margin: auto;}
+figcaption {
     background-color: white;
     color: black;
     font-style: italic;
     padding: 2px;
     text-align: center;
-    width: 250px;
-  }
+    width: 250px;}
 
+/*---- Richard -----*/
 
-  /* Richard */
-  .richard figcaption {
+.richard figcaption {
     margin-top: 10px;
-    margin-right: 30px;
-}
-
-    .richard {
+    margin-right: 30px;}
+ .richard {
         margin-left:190px;
-        float: left;
-    }
-
-    .richard img{
+        float: left;}
+.richard img{
         margin-left: 10px;
-        border-radius: 50%;
-    }
+        border-radius: 50%;}
 
-    /* Jean */
-    .jean {
+/*---- Jean ----*/
+
+.jean {
         margin-left: 110px;
-        float: left;
-       
-    }
-    .jean img {
+        float: left;}
+.jean img {
         margin-left: 25px;
-        border-radius: 50%;
-    }
-  
-    .jean figcaption {
+        border-radius: 50%; }
+.jean figcaption {
       margin-top: 10px;
-     padding-left: 10px;
-  }
-  
-    /* Lesley */
-   
-    .lesley img {
+     padding-left: 10px;}
+
+/*---- Lesley ----*/
+
+.lesley img {
     margin-left: 160px;
-    border-radius: 50%;
-    }
-
-    .lesley figcaption {
+    border-radius: 50%;}
+.lesley figcaption {
     margin-top: 10px;
-    margin-left: 990px;
-   
-    }
+    margin-left: 990px;}
 
- /* Lynette */
- .lynette figcaption {
+/* ----Lynette ----*/
+
+.lynette figcaption {
     margin-top: 10px;
-    padding-right: 10px;
-}
-
-    .lynette{
+    padding-right: 10px;}
+.lynette{
         margin-left:190px;
-        float: left;
-    }
-
-    .lynette img{
+        float: left;}
+.lynette img{
         margin-left: 10px;
-        border-radius: 50%;
-    }
+        border-radius: 50%;}
 
-    /* Noelle */
-    .noelle {
+/*---- Noelle ----*/
+
+.noelle {
         margin-left: 130px;
-        float: left;
-       
-    }
-    .noelle img {
+        float: left;}
+.noelle img {
         margin-left: 25px;
-        border-radius: 50%;
-    }
-  
-    .noelle figcaption {
+        border-radius: 50%;}
+.noelle figcaption {
       margin-top: 10px;
-     padding-left: 10px;
-  }
+     padding-left: 10px;}
 
-  /* Declan */
-   
-  .declan img {
+/*---- Declan ----*/
+
+.declan img {
     margin-left: 160px;
-    border-radius: 50%;
-    }
-
-    .declan figcaption {
+    border-radius: 50%;}
+.declan figcaption {
     margin-top: 10px;
-    margin-left: 990px;
-   
-    }
+    margin-left: 990px;}
+
 /* Footer/ social networks */
 /* footer */
 
 #home-footer {
     height: 20px;
     background-color: #fdd008;
-    margin-top: 150px;
-    
-}
-
+    margin-top: 150px;}
 .social-media {
-    text-align: center;
-}
-
+    text-align: center;}
 .social-media > li {
-    display: inline;
-}
-
+    display: inline;}
 .social-media i {
     font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color: black;
-}
-
+    color: black;}
 
 /* -------------------- Gallery ----------------------- */
 
@@ -279,38 +206,27 @@ nav ul {background-color: #fdd008;
     padding-left: 17%;
     text-transform: uppercase;
     padding-top: 20px;
-    padding-bottom: 20px;
-}
-
+    padding-bottom: 20px;}
 #header-image-gallery{
     padding-left: 40px;
-    width: 100%;
-}
-
+    width: 100%;}
+/* ----- Gallery Images Style -----*/    
 #gallery-photos {
     clear: both;
     column-count: 3;
-    column-gap: 0;
-}
-
+    column-gap: 0;}
 #gallery-photos > img {
-    width: 100%;
-    
-}
-
+    width: 100%;}
 #header-image-gallery{
     height: 560px;
     width: 100%;
     overflow: hidden;
-    position: relative;
-}
-
+    position: relative;}
 #gallery-footer {
     height: 20px;
     background-color: #fdd008;
-    margin-top: 100px;
-    
-}
+    margin-top: 100px;}
+
 /* -------------------- Services Page -------------------- */
 
 #services-header-image {
