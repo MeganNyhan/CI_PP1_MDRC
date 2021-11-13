@@ -313,8 +313,6 @@ nav ul {background-color: #fdd008;
 }
 /* -------------------- Services Page -------------------- */
 
-
-
 #services-header-image {
     height: 575px;
     width: 100%;
@@ -349,7 +347,7 @@ nav ul {background-color: #fdd008;
 #section1 {
     background-color: #2EB0E5;
     Width: 28%;
-    height: 300px;
+    height:  300px;
     float: left;
     margin-left: 20px;
     text-align: center;
@@ -376,7 +374,7 @@ nav ul {background-color: #fdd008;
 #section4 {
     background-color: #fff;
     Width:  28%;
-    height: 300px;
+    height: 270px;
     float: left;
     margin-left: 20px;
     text-align: center;
