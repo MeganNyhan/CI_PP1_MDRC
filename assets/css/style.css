@@ -1118,51 +1118,44 @@ figcaption {
 #services-list p {
     padding-right: 20px;
     padding-left:20px;}
+
 #services-list {
-    margin-bottom: 80px;
-}
+    margin-bottom: 80px;}
 
 #services-footer {
     height: 10px;
     background-color: #fdd008;
     margin-bottom: 5px;
-    margin-top: 800px;
-}
+    margin-top: 800px;}
 
 /* --------------Gallery Page ---------------- */
 
 .gallery-header {
-    width: 320px;
-}
+    width: 320px;}
+
 .gallery-heading {
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 20px;
-    text-align: center;
-}
+    text-align: center;}
 
 #gallery-photos {
     clear: both;
     column-count: 1;
-    column-gap: 0;
-}
+    column-gap: 0;}
 
 #gallery-photos > img {
-    width: 100%;
-    
-}
+    width: 100%;}
 
 #header-image-gallery{
     height: 560px;
     width: 100%;
     overflow: hidden;
     position: relative;
-    margin-left: 10px;
-}
+    margin-left: 10px;}
 
 #gallery-footer{
-    margin-top: 10px;
-}
+    margin-top: 10px;}
 
 /*---------------------- Contact Page  -----------------------------*/
 
@@ -1170,13 +1163,11 @@ figcaption {
     height: 575px;
     width: 90%;
     overflow: hidden;
-    position: relative;
-}
+    position: relative;}
 
 #contact-header h1{
     margin-left: 10px;
-    text-align: center;
-}
+    text-align: center;}
 
 #contact-info{
     margin-left: 105px; 
@@ -1184,38 +1175,28 @@ figcaption {
     width: 40%;
     float: left;
     text-align: center;
-    margin-bottom: 20px;
-}
+    margin-bottom: 20px;}
 
-
+/* From */
 
 #contact-form{
     margin-left: 0px; 
-    margin-top: 20px;
+    margin-top: 20px;}
 
-}
+.contact-button {
+        margin-top: 40px;}
+    
+#form{ 
+        text-align: left;
+        width: 100%;
+        margin-left: 10px;}
+    
+/* ----- Map ----*/    
 
 #map {
    margin-top: 50px;
     margin-bottom: 450px;
     margin-left: 30px;
     width:100%; 
-    height:300px;
-    
-}
-
-
-.contact-button {
-    margin-top: 40px;
-  
-}
-
-#form{ 
-    text-align: left;
-    width: 100%;
-    margin-left: 10px;
-   
-}
-
-
+    height:300px;}
 }
