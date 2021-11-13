@@ -178,17 +178,17 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
 
-<h3><strong>Home Page</strong></h3>
-<img src="assets/images/home-validation.png">
+<details><summary>Home page</summary>
+<img src="assets/images/home-validation.png"></details>
 
-<h3><strong>Services Page</strong></h3>
-<img src="assets/images/services-validation.png">
+<details><summary>Services page</summary>
+<img src="assets/images/services-validation.png"></details>
 
-<h3><strong>Gallery Page</strong></h3>
-<img src="assets/images/gallery-validation.png">
+<details><summary>Gallery page</summary>
+<img src="assets/images/gallery-validation.png"></details>
 
-<h3><strong>Contact Page</strong></h3>
-<img src="assets/images/contact-validation.png">
+<details><summary>Contact page</summary>
+<img src="assets/images/contact-validation.png"></details>
 
 
 <h3><strong>CSS Validation</strong></h3>
