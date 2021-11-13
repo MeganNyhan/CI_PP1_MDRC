@@ -24,7 +24,7 @@ h1, h2, h3, p, nav, menu{
     width: 100%;
     overflow: hidden;
     position: relative;
-    margin-left: 75px;
+    margin-left:2px;
 }
 
 /* Navigation */
@@ -127,12 +127,12 @@ nav ul {background-color: #fdd008;
 
     #meet-the-team {
         width:100%;
-        margin-left: 60px; 
+        
 }
 
 
     #meet-the-team h1 { 
-        margin-left: 37%;
+        margin-left: 44%;
         padding-top: 50px;
         padding-bottom: 20px;
         text-transform: uppercase;
