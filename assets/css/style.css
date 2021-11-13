@@ -919,110 +919,97 @@ figcaption {
     float: left;
     margin-left: 10px;
     padding-bottom: 10px;
-    padding-top: 30px;
-}
+    padding-top: 30px;}
 
 .richard figcaption{
     padding-bottom: 10px;
     float:right;
     text-align: left;
     font-size: 16px;
-    width:174px;
-}
+    width:174px;}
+
+/*-- Jean --*/
 
 .jean {
-    float: right;
-}
+    float: right;}
 
 .jean img{
     float: right;
     padding-bottom: 10px;
     margin-left:20px;
-    padding-top: 30px;
-}
+    padding-top: 30px;}
 
 .jean figcaption{
     margin-left: 10px;
     text-align: right;
     font-size: 16px;
     width:355px;
-    margin-top: 10px;
-}
-  
- 
-.lesley {
-    float: left;
-}
+    margin-top: 10px;} 
 
+ /*-- Lesley ---*/
+
+.lesley {
+    float: left;}
 
 .lesley img{
     float: left;
     padding-bottom: 5px;
     border-radius: 50%;
-    padding-top: 40px;
-} 
+    padding-top: 40px;} 
   
-  .lesley figcaption{
+.lesley figcaption{
     padding-bottom: 10px;
     float:right;
     text-align: left;
     font-size: 16px;
-    width:174px;
-    
-}
+    width:174px;}
+
+/*-- Lynette ---*/    
 
 .lynette {
-    float: right;
-    
-}
+    float: right;}
 
 .lynette img{
     float: right;
-    margin-left: 10px;
-    
-}
+    margin-left: 10px;}
 
 .lynette figcaption{
    margin-left: 10px;
     padding-top: 20px;
     text-align: right;
     font-size: 16px;
-    width:344px;
-}
+    width:344px;}
 
+/* --- Noelle ---*/
 
 .noelle{
     float: left;
-    margin-left: 20px;
-}
+    margin-left: 20px;}
 
 
 .noelle img{
     float: left;
     margin-left: 1px;
     padding-bottom: 10px;
-    padding-top: 10px;
-}
+    padding-top: 10px;}
 
 .noelle figcaption{
     padding-top: 20px;
     float:right;
     text-align: left;
     font-size: 16px;
-    width:208px;
-}
+    width:208px;}
+
+/*-- Declan --*/
 
 .declan{
-    float: right;
-    
-}
+    float: right;}
 
 .declan img{
     float: right;
     margin-left: 10px;
     padding-bottom: 10px;
-    padding-top: 30px;
-}
+    padding-top: 30px;}
 
 .declan figcaption{
     
@@ -1031,64 +1018,48 @@ figcaption {
     font-size: 16px;
     width:305px;}
 
-
 /* Footer/ social networks */
 /* footer */
-
 
 #home-footer {
     height: 5px;
     background-color: #fdd008;
-    margin-top:860px;
-}
+    margin-top:860px;}
 
 .social-media {
-    text-align: center;
-}
+        text-align: center;}
 
 .social-media > li {
-    display: inline;
-}
+    display: inline;}
 
 .social-media i {
     font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color: black;
-}
+    color: black;}
 
 /* -------------------- Services Page -------------------- */
-
-
 
 #services-header-image {
     height: 500px;
     width: 320px;
     padding-right: 10px;}
    
-
-
 #services-welcome h1, h4{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     text-transform: uppercase;
     margin-left:15%;
-    width: 70%;
-    
-}
+    width: 70%;}
 
 #services-welcome p {
     width: 90%;
     text-align: justify;
-    padding-left: 20px;
-   
-}
+    padding-left: 20px;}
 
 #services-welcome {
-   padding-bottom: 10px;
-}
-
+   padding-bottom: 10px;}
 
 #section1 {
     background-color: #2EB0E5;
@@ -1096,8 +1067,7 @@ figcaption {
     height: 400px;
     float: left;
     margin-left: 20px;
-    text-align: center;
-}
+    text-align: center;}
 
 #section2 {
     background-color: #fff;
@@ -1105,8 +1075,7 @@ figcaption {
     height: 350px;
     float: left;
     margin-left: 20px;
-    text-align: center;
-}
+    text-align: center;}
 
 #section3 {
     background-color: #2EB0E5;
@@ -1122,9 +1091,7 @@ figcaption {
     height: 350px;
     float: left;
     margin-left: 20px;
-    text-align: center;
-}
-
+    text-align: center;}
 
 #section5 {
     background-color: #2EB0E5;
@@ -1132,8 +1099,7 @@ figcaption {
     height: 350px;
     float: left;
     margin-left: 20px;
-    text-align: center;
-}
+    text-align: center;}
 
 #section6 {
     background-color: #fff;
@@ -1141,20 +1107,17 @@ figcaption {
     height: 400px;
     float: left;
     margin-left: 20px;
-    text-align: center;
-}
+    text-align: center;}
 
 #services-list h2 {
     margin-top: 40px;
     padding-bottom: 20px;
     padding-right: 10px;
-    padding-left:10px;
-}
+    padding-left:10px;}
 
 #services-list p {
     padding-right: 20px;
-    padding-left:20px;
-}
+    padding-left:20px;}
 #services-list {
     margin-bottom: 80px;
 }
