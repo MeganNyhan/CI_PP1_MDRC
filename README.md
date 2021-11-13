@@ -194,23 +194,24 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <h3><strong>CSS Validation</strong></h3>
 <p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
 
-<h3><strong>style.css</strong></h3>
-<img src="assets/images/css-validation.png">
+<details><summary>CSS</summary>
+<img src="assets/images/css-validation.png"></details>
 
 <h3><strong>Accessibility Test and Performance</strong></h3>
 <p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following: </p>
 <hr>
-<h3>Home Page</h3> 
-<img src="assets/images/home-page-accessibility.png">
+<details><summary>Home page</summary>
+<img src="assets/images/home-page-accessibility.png"></details>
 <hr>
-<h3>Services Page</h3> 
-<img src="assets/images/services-accessibility.png">
+<details><summary>Services page</summary> 
+<img src="assets/images/services-accessibility.png"></details>
 <hr>
-<h3>Gallery Page</h3> 
-<img src="assets/images/gallery-accessibility.png">
+<details><summary>Gallery page</summary>
+<img src="assets/images/gallery-accessibility.png"></details>
 <hr>
-<h3>Contact Page</h3> 
-<img src="assets/images/contact-accesibility.png">
+<details><summary>Contact page</summary>
+<img src="assets/images/contact-accesibility.png"></details>
+<hr>
 <h2><strong>Performance</strong></h2>
 <p>The site was tested on the following decives:</p>
 <ol>
