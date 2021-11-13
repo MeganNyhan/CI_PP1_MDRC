@@ -134,6 +134,7 @@ nav ul {background-color: #fdd008;
         padding-top: 80px;
         padding-bottom: 10px;
         text-transform: uppercase;
+        padding-left: 45%;
 }   
 
     #meet-the-team img {
@@ -202,15 +203,57 @@ nav ul {background-color: #fdd008;
    
     }
 
- 
+ /* Lynette */
+ .lynette figcaption {
+    margin-top: 10px;
+    padding-right: 10px;
+}
 
+    .lynette{
+        margin-left:190px;
+        float: left;
+    }
+
+    .lynette img{
+        margin-left: 10px;
+        border-radius: 50%;
+    }
+
+    /* Noelle */
+    .noelle {
+        margin-left: 130px;
+        float: left;
+       
+    }
+    .noelle img {
+        margin-left: 25px;
+        border-radius: 50%;
+    }
+  
+    .noelle figcaption {
+      margin-top: 10px;
+     padding-left: 10px;
+  }
+
+  /* Declan */
+   
+  .declan img {
+    margin-left: 160px;
+    border-radius: 50%;
+    }
+
+    .declan figcaption {
+    margin-top: 10px;
+    margin-left: 990px;
+   
+    }
 /* Footer/ social networks */
 /* footer */
 
 #home-footer {
     height: 20px;
     background-color: #fdd008;
-    margin-top: 350px;
+    margin-top: 150px;
     
 }
 
@@ -551,100 +594,149 @@ nav ul {background-color: #fdd008;
         padding-left: 140px;
 }
 
-/* Meet the Team */
 
 /* Meet the Team */
+#meet-the-team h1{
+    padding-left: 35%;
+}
 
 #meet-the-team {
     width:100%;
-    margin-left: 60px; 
-}
-
-
-#meet-the-team h1 { 
-    padding-top: 50px;
-    padding-bottom: 20px;
-    text-transform: uppercase;
-}   
+    margin-top:20px;
+}  
 
 #meet-the-team img {
-    border-radius:50%;
-    height: 150px;
-    width: 150px;
-
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
 }
-figure {
- padding: 4px;
- margin: auto;
-}
-
 figcaption {
-background-color: white;
-color: black;
-font-style: italic;
-padding: 2px;
-text-align: center;
-width: 250px;
-}
-
-
-/* Richard */
-.richard figcaption {
-margin-top: 10px;
+    font-size: large;
+    width: 180px;
+    margin-left:10px;
+    
 }
 
 .richard {
-    margin-left:10px;
     float: left;
+    margin-left: 2px;
 }
 
-.richard img{
-    margin-left: 50px;
-    border-radius: 50%;
+
+.richard  img{
+    float: left;
+    margin-left: 10px;
+    padding-bottom: 10px;
 }
 
-/* Jean */
+.richard figcaption{
+    float:right;
+    text-align: left;
+    font-size: 24px;
+    padding-left: 20px;
+}
+
 .jean {
-    margin-left: 50px;
-    float: left;
-   
-}
-.jean img {
-    margin-left: 55px;
-    border-radius: 50%;
+    float: right;
+    
 }
 
-.jean figcaption {
-  margin-top: 10px;
- width: 250px;
- padding-left: 10px;
+.jean img{
+    float: right;
+    padding-bottom: 10px;
+    margin-left:20px;
 }
 
-/* Lesley */
+.jean figcaption{
+    margin-left: 10px;
+    text-align: right;
+    width: 350px;
+}
+  
+ 
 .lesley {
-    margin-left:10px;
     float: left;
 }
 
-.lesley img {
-margin-left: 60px;
-border-radius: 50%;
+
+.lesley img{
+    float: left;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    padding-right: 20px;
+    border-radius: 50%;
+} 
+  
+  .lesley figcaption{
+    text-align: left;
+    width: 300px;
+    margin-left: 30px;
 }
 
-.lesley figcaption {
-width: 250px;
-margin-left: 10px;
+.lynette {
+    float: right;
+    
 }
+
+.lynette img{
+    float: right;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.lynette figcaption{
+   margin-left: 10px;
+    padding-top: 20px;
+    text-align: right;
+    width: 350px;
+}
+
+
+.noelle{
+    float: left;
+    margin-left: 20px;
+}
+
+
+.noelle img{
+    float: left;
+    margin-left: 1px;
+    padding-bottom: 10px;
+}
+
+.noelle figcaption{
+    padding-top: 20px;
+    float:right;
+    text-align: left;
+    width: 210px;
+}
+
+.declan{
+    float: right;
+    
+}
+
+.declan img{
+    float: right;
+   margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.declan figcaption{
+    
+    text-align: right;
+    margin-right: 40px;
+    width: 300px;}
 
 
 
 /* Footer/ social networks */
 /* footer */
 
-footer {
+#home-footer {
     height: 20px;
     background-color: #fdd008;
-    margin-top: 700px;
+    margin-top: 1000px;
 }
 
 .social-media {
@@ -773,6 +865,11 @@ footer {
     margin-bottom: 80px;
 }
 
+#services-footer{
+
+margin-top:440px;
+}
+
 
 
 
@@ -831,7 +928,11 @@ footer {
 #contact-form-p  {
     margin-left: 1px;
     margin-top: 10px; 
+}
 
+#contact-form {
+    padding-top: 60px;
+   
 }
 
 #map {
