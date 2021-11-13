@@ -1106,7 +1106,7 @@ nav ul {background-color: #fdd008;
 }
 figcaption {
     font-size: small;
-    width: 120px;
+    width: 180px;
     margin-left:10px;
     
 }
@@ -1128,7 +1128,7 @@ figcaption {
     float:right;
     text-align: left;
     font-size: 16px;
-    width:104px;
+    width:174px;
 }
 
 .jean {
@@ -1146,7 +1146,7 @@ figcaption {
     margin-left: 10px;
     text-align: right;
     font-size: 16px;
-    width:255px;
+    width:355px;
     margin-top: 10px;
 }
   
@@ -1168,7 +1168,7 @@ figcaption {
     float:right;
     text-align: left;
     font-size: 16px;
-    width:104px;
+    width:174px;
     
 }
 
@@ -1188,7 +1188,7 @@ figcaption {
     padding-top: 20px;
     text-align: right;
     font-size: 16px;
-    width:244px;
+    width:344px;
 }
 
 
@@ -1210,7 +1210,7 @@ figcaption {
     float:right;
     text-align: left;
     font-size: 16px;
-    width:158px;
+    width:208px;
 }
 
 .declan{
@@ -1230,7 +1230,7 @@ figcaption {
     text-align: right;
     margin-right: 40px;
     font-size: 16px;
-    width:225px;}
+    width:305px;}
 
 
 /* Footer/ social networks */
@@ -1428,7 +1428,7 @@ figcaption {
 
 
 #contact-form{
-    padding-left: 70px; 
+    margin-left: 0px; 
     margin-top: 20px;
 
 }

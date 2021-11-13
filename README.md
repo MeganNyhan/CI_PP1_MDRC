@@ -1,5 +1,13 @@
 ![MDRC logo](https://thisismilford.com/wp-content/uploads/2020/02/Logo-Name-Square-White-1.png)
 
+<img src="assets/images/desktop-responsive.png">
+
+<img src="assets/images/ipad_responsive.png">
+
+<img src="assets/images/iphone_responsive.png">
+
+<a href="https://megannyhan.github.io/Project_1/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener"></a>
+
 <br>
 <br>
 <br>
@@ -110,7 +118,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <hr>
 
-<h2><strong>Features:</strong></h2>
+<h2><strong>Technology:</strong></h2>
 <h3><strong>Develpoment Languages Used</strong></h3>
 
 <ul>
@@ -125,6 +133,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> Balsamiq </li>
 <li> Google Fonts </li>
 <li> Font Awesome </li>
+<li> Google Developer Tools (for responsive site)</li>
 </ul>
 
 <hr>
@@ -175,16 +184,16 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 
 <h3><strong>Home Page</strong></h3>
-<img src="assets/images/home-page-html-validation.png">
+<img src="assets/images/home-validation.png">
 
 <h3><strong>Services Page</strong></h3>
-<img src="assets/images/services-page-html-validation.png">
+<img src="assets/images/services-validation.png">
 
 <h3><strong>Gallery Page</strong></h3>
-<img src="assets/images/gallery-page-html-validation.png">
+<img src="assets/images/gallery-validation.png">
 
 <h3><strong>Contact Page</strong></h3>
-<img src="assets/images/contact-html-validation.png">
+<img src="assets/images/contact-validation.png">
 
 
 <h3><strong>CSS Validation</strong></h3>
@@ -193,7 +202,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <h3><strong>style.css</strong></h3>
 <img src="assets/images/css-validation.png">
 
-<h3><strong>Accessibility Test</strong></h3>
+<h3><strong>Accessibility Test and Performance</strong></h3>
 <p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following: </p>
 <hr>
 <h3>Home Page</h3> 
@@ -207,12 +216,33 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <hr>
 <h3>Contact Page</h3> 
 <img src="assets/images/contact-accesibility.png">
+<h2><strong>Performance</strong></h2>
+<p>The site was tested on the following decives:</p>
+<ol>
+<li>MacBook Pro</li>
+<li>iPhone 6/7/8</li>
+<li>iPad (Regular size)</li>
+</ol>
+<p> The site was also tested on the following browsers</p>
+<ol>
+<li>Google Chrome</li>
+<li>Safari</li>
+<li>Firefox</li>
 
 
 <h2><strong>Bugs:</strong></h2>
 <hr>
 
 <h2><strong>Deployment:</strong></h2>
+<p>In order to deploy my site I took the following steps using GitHub pages:</p>
+
+<ol>
+<li>In the GitHub repository, select the "Settings" tab at the top of the page.</li>
+<li> Then on the left hand-side in the menu, select "Pages".</li>
+<li> The where it says source, used the dropdown menu to select "Main".</li>
+<li> After a few moments, refresh the website and you should have a pop-up come up to tell you that "Your site has been published" with your link coming after.</li>
+
+<p> My link is: https://megannyhan.github.io/Project_1/</p>
 <hr>
 
 <h2><strong>Credits:</strong></h2>
@@ -272,7 +302,7 @@ Gallery Images:
 
 <li> Code to help with the contact form was taken from bootstrap: https://getbootstrap.com/docs/5.1/forms/form-control/ </li>
 
-<li>I also referenced the Love-Running project to help with the grid for the Gallery Section and the social links from the footer. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li>
+<li>I also referenced the Love-Running project to help with the grid for the Gallery Section and the social links from the footer. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li></ul>
 <hr>
 <h2><strong>Acknowledgements:</strong></h2>
 <p> I would like to take this oppurtuinity to thank and acknowlege the following people:
