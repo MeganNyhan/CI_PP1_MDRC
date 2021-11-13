@@ -84,7 +84,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
   <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available to be as a member of the organisation. To verfiy the contrast in colours were accessible I tested them on WebAIM which they all passed as readable. </p>
 
-  <img src="assets/images/mdrc brand guidelines (1).png">
+  <img src="assets/images/mdrc-brand-guidelines.png">
 
   <h3><strong>Fonts</strong></h3>
   <p>Fonts used on the website were Open Sans Bold and Open Sans Light. Open sans bold was used for headings and open sans light was used in paragraphs.</p>
@@ -105,7 +105,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far developed and changes I have made personally to the look of the site when building it.</p>
 
 <h4>Home Page</h4>
-<img src="assets/images/New Wireframe 1.png">
+<img src="assets/images/wireframe1.png">
 
 <h4>Services Page</h4>
 <img src="assets/images/wireframe2.png">
@@ -242,7 +242,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> The where it says source, used the dropdown menu to select "Main".</li>
 <li> After a few moments, refresh the website and you should have a pop-up come up to tell you that "Your site has been published" with your link coming after.</li>
 
-<p> My link is: https://megannyhan.github.io/Project_1/</p>
+<p> My link is: https://megannyhan.github.io/CI_PP1_MDRC/ </p>
 <hr>
 
 <h2><strong>Credits:</strong></h2>
