@@ -210,7 +210,9 @@ figcaption {
 #header-image-gallery{
     padding-left: 40px;
     width: 100%;}
-/* ----- Gallery Images Style -----*/    
+
+/* ----- Gallery Images Style -----*/
+
 #gallery-photos {
     clear: both;
     column-count: 3;
@@ -233,108 +235,76 @@ figcaption {
     height: 575px;
     width: 100%;
     overflow: hidden;
-    position: relative;
-    
-}
-
-
+    position: relative;}
 #services-welcome h1, h4{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     text-transform: uppercase;
     margin-left:15%;
-    width: 70%;
-    
-}
-
+    width: 70%;}
 #services-welcome p {
     width: 70%;
     text-align: justify;
-    padding-left: 200px;
-   
-}
-
+    padding-left: 200px;}
 #services-welcome {
-   padding-bottom: 50px;
-}
-
-
+   padding-bottom: 50px;}
 #section1 {
     background-color: #2EB0E5;
     Width: 28%;
     height:  300px;
     float: left;
     margin-left: 20px;
-    text-align: center;
-}
-
+    text-align: center;}
 #section2 {
     background-color: #fff;
     Width:  28%;
     height: 300px;
     float: left;
     margin-left:100px;
-    text-align: center;
-}
-
+    text-align: center;}
 #section3 {
     background-color: #2EB0E5;
     Width:  28%;
     height: 300px;
     float: right;
     margin-right: 20px;
-    text-align: center;
-}
-
+    text-align: center;}
 #section4 {
     background-color: #fff;
     Width:  28%;
     height: 270px;
     float: left;
     margin-left: 20px;
-    text-align: center;
-}
-
-
+    text-align: center;}
 #section5 {
     background-color: #2EB0E5;
     Width:  28%;
     height: 300px;
     float: left;
     margin-left: 100px;
-    text-align: center;
-}
-
+    text-align: center;}
 #section6 {
     background-color: #fff;
     Width:  28%;
     height: 300px;
     float: right;
     margin-right: 20px;
-    text-align: center;
-}
-
+    text-align: center;}
 #services-list h2 {
     margin-top: 40px;
     padding-bottom: 20px;
     padding-right: 10px;
-    padding-left:10px;
-}
-
+    padding-left:10px;}
 #services-list p {
     padding-right: 20px;
-    padding-left:20px;
-}
+    padding-left:20px;}
 #services-list {
-    margin-bottom: 80px;
-}
+    margin-bottom: 80px;}
 #services-footer {
     height: 20px;
     background-color: #fdd008;
-    margin-top: 700px;
-    
-}
+    margin-top: 700px;}
 
 /*---------------------- Contact Page  -----------------------------*/
 
@@ -342,29 +312,17 @@ figcaption {
     height: 575px;
     width: 100%;
     overflow: hidden;
-    position: relative;
-
-}
+    position: relative;}
 #contact-header{
     padding-left:25%; 
-    text-transform: uppercase;
-
-    
-}
-
-
+    text-transform: uppercase;}
 #contact-info{
     margin-left: 60px; 
     text-transform: uppercase;
     width: 40%;
-    float: right;
-}
+    float: right;}
 
-
-#contact-form{
-    padding-top:50px; 
-
-}
+/* --- Map ---*/
 
 #map {
     max-width: 100%;
@@ -372,27 +330,22 @@ figcaption {
     margin-top: 50px;
     margin-bottom: 40px;
     width: auto; 
-    height: auto;  
-}
+    height: auto;}
 
+/* ---- Form ----*/  
 
+#contact-form{
+    padding-top:50px;}
 .contact-button {
-    margin-top: 20px;
-  
-}
-
+    margin-top: 20px;}
 #form{ 
     text-align: left;
     width: 100%;
-    margin-left: 150px;
-}
-
+    margin-left: 150px;}
 #contact-footer {
     height: 20px;
     background-color: #fdd008;
-    margin-top: 100px;
-    
-}
+    margin-top: 100px;}
 
                      /*-------Media Queries (Tablet)--------*/
 
@@ -400,150 +353,101 @@ figcaption {
 
 @media screen and (max-width:828px) {
 
-    /* Header Image */
-
+    /* --------Header Image-------- */
 #header-image {
     height: 500px;
     width: 90%;
     overflow: hidden;
     position: relative;
     margin-left: 40px;
-    padding-top: 40px;
-   
-}
+    padding-top: 40px; }
 
-/* Navigation */
+/* -----Navigation -------*/
 nav{ height: 10px;
-     width: 100%;
-    
-}
-
+     width: 100%;}
 nav ul {background-color: #fdd008;
         width: 95%;
-        height:60px;
-     }
-
+        height:60px;}
 #menu {
     font-size: 16px;
-    letter-spacing: 4px;
-}
-
+    letter-spacing: 4px;}
 #menu {
-    line-height: 10px;
-}
-
+    line-height: 10px;}
 #menu li {
     text-transform: uppercase;
     float: left;
     list-style-type: none;
     margin-right: 50px;
-    padding-top:25px;
-}
-
+    padding-top:25px;}
 #menu a {
     text-decoration: none;
-    color: inherit;
-}
-
+    color: inherit;}
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
+    border-bottom: 1px solid #3a3a3a;}
 
-   
+/* -------------- Welcome ----------------- */
 
+#welcome h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;}
+#welcome p {
+    width: 90%;
+    text-align: justify;
+    padding-left: 40px;}
+#welcome {
+    padding-bottom: 20px;}
 
-    /* -------------- Welcome ----------------- */
+/* -----about us text----- */
 
-    #welcome h1 {
-        text-align: center;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        text-transform: uppercase;
-        
-    }
+#about-us {
+    background-color: #fff;
+    width: 100%;
+    height: inherit;}
+#about-us h1 {
+    float:left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    margin-left: 42%;}    
+.about p {
+    padding-top: 10px;
+    width: 90%;
+    float: left;
+    padding-left: 40px;
+    text-align: justify;}
+.about img {
+    width: 60%;
+    padding-right: 20px;
+    height: 350px;
+    padding-left: 140px;}
 
-    #welcome p {
-        width: 90%;
-        text-align: justify;
-        padding-left: 40px;
-       
-    }
-
-    #welcome {
-       padding-bottom: 20px;
-    }
-
-    
-
-    /* about us text */
-
-    #about-us {
-        background-color: #fff;
-        width: 100%;
-        height: inherit;
-     }
-
-    #about-us h1 {
-       
-        float:left;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        text-transform: uppercase;
-        margin-left: 42%;
-    }    
-
-    .about p {
-        padding-top: 10px;
-        width: 90%;
-        float: left;
-        padding-left: 40px;
-        text-align: justify;
-}
-
-    .about img {
-       
-        width: 60%;
-        padding-right: 20px;
-        height: 350px;
-        padding-left: 140px;
-}
-
-
-/* Meet the Team */
+/* -----Meet the Team------ */
 #meet-the-team h1{
     padding-left: 260px;
-    font-size: 30px;
-}
-
+    font-size: 30px;}
 #meet-the-team {
     width:100%;
-    margin-top:20px;
-}  
-
+    margin-top:20px;}  
 #meet-the-team img {
     border-radius: 50%;
     height: 200px;
-    width: 200px;
-}
+    width: 200px;}
 figcaption {
     font-size: large;
     width: 300px;
-    margin-left:10px;
-    
-}
+    margin-left:10px;}
+
+/*----- Richard -----*/
 
 .richard {
     float: left;
-    margin-left: 2px;
-}
-
-
+    margin-left: 2px;}
 .richard  img{
     float: left;
     margin-left: 10px;
-    padding-bottom: 10px;
-}
-
+    padding-bottom: 10px;}
 .richard figcaption{
     float:right;
     text-align: left;
@@ -552,18 +456,14 @@ figcaption {
     width: 450px;
     padding-top:40px;}
 
+/* ---- Jean -----*/
 
 .jean {
-    float: right;
-    
-}
-
+    float: right;}
 .jean img{
     float: right;
     padding-bottom: 10px;
-    margin-left:20px;
-}
-
+    margin-left:20px;}
 .jean figcaption{
     margin-left: 10px;
     text-align: right;
@@ -571,46 +471,37 @@ figcaption {
     font-size: 24px;
     padding-top:40px;}
  
+/*--- Lesley ---*/
+
 .lesley {
-    float: left;
-}
-
-
+    float: left;}
 .lesley img{
     float: left;
     padding-bottom: 5px;
     margin-left: 10px;
     padding-right: 20px;
-    border-radius: 50%;
-} 
-  
-  .lesley figcaption{
+    border-radius: 50%;} 
+.lesley figcaption{
     text-align: left;
     width: 670px;
     margin-left: 30px;
     font-size: 24px;
-    padding-top:40px;
-}
+    padding-top:40px;}
 
+/*--- Lynette ----*/
 .lynette {
-    float: right;
-    
-}
-
+    float: right;}
 .lynette img{
     float: right;
     margin-left: 10px;
-    padding-bottom: 10px;
-}
-
+    padding-bottom: 10px;}
 .lynette figcaption{
    margin-left: 10px;
     padding-top: 20px;
     text-align: right;
     width: 690px;
     font-size: 24px;
-    padding-top:40px;
-}
+    padding-top:40px;}
 
 
 .noelle{
