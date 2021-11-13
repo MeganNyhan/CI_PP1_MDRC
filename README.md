@@ -1,12 +1,7 @@
-![MDRC logo](https://thisismilford.com/wp-content/uploads/2020/02/Logo-Name-Square-White-1.png)
-
-<img src="assets/images/desktop-responsive.png">
-
-<img src="assets/images/ipad_responsive.png">
-
-<img src="assets/images/iphone_responsive.png">
+<img src="assets/images/smartmockups.png" alt="Mockup of my website across multiple devices">
 
 <a href="https://megannyhan.github.io/CI_PP1_MDRC/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener"></a>
+
 
 <br>
 <br>
