@@ -99,17 +99,17 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far developed and changes I have made personally to the look of the site when building it.</p>
 
-<h4>Home Page</h4>
-<img src="assets/images/wireframe1.png">
+<details><summary> Home Page</summary>
+<img src="assets/images/wireframe1.png"></details>
 
-<h4>Services Page</h4>
-<img src="assets/images/wireframe2.png">
+<details><summary> Services Page</summary>
+<img src="assets/images/wireframe2.png"></details>
 
-<h4>Gallery Page</h4>
-<img src="assets/images/wireframe3.png">
+<details><summary> Gallery Page</summary>
+<img src="assets/images/wireframe3.png"></details>
 
-<h4>Contact Page</h4>
-<img src="assets/images/wireframe4.png">
+<details><summary>Contact Page</summary>
+<img src="assets/images/wireframe4.png"></details>
 
 <hr>
 
