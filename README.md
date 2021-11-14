@@ -1,6 +1,6 @@
 <img src="assets/images/smartmockups.png" alt="Mockup of my website across multiple devices">
 
-<a href="https://megannyhan.github.io/CI_PP1_MDRC/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener"></a>
+<a href="https://megannyhan.github.io/CI_PP1_MDRC/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener">Live Website</a>
 
 
 <br>
@@ -301,16 +301,16 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <img src="assets/images/css-validation.png"></details>
 <br>
 
-### Accessibility Test and Performance
-<p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following: </p>
+### Accessibility Test
+<p> To Validate my accessibility, I used the WAVE WebAIM web accessibility evaluation tool. I passed with no errors. My site was awarded the following: </p>
 <details><summary>Home page</summary>
-<img src="assets/images/home-page-accessibility.png"></details>
+<img src="assets/images/home-page-wave.png"></details>
 <details><summary>Services page</summary> 
-<img src="assets/images/services-accessibility.png"></details>
+<img src="assets/images/services-page-wave.png"></details>
 <details><summary>Gallery page</summary>
-<img src="assets/images/gallery-accessibility.png"></details>
+<img src="assets/images/gallery-page-wave.png"></details>
 <details><summary>Contact page</summary>
-<img src="assets/images/contact-accesibility.png"></details>
+<img src="assets/images/contact-page-wave.png"></details>
 <br>
 
 ## Performance
