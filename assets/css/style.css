@@ -205,9 +205,9 @@ figcaption {
 /* footer */
 
 #home-footer {
-    height: 20px;
+    height: auto;
     background-color: #fdd008;
-    margin-top: 150px;}
+    margin-top: 10px}
 
 .social-media {
     text-align: center;}
@@ -217,21 +217,18 @@ figcaption {
 
 .social-media i {
     font-size: 200%;
-    margin: 1%;
     padding: 5%;
     color: black;}
 
 /* -------------------- Gallery ----------------------- */
 
 .gallery-heading {
-    padding-left: 15%;
+    padding-left: 23%;
     text-transform: uppercase;
     padding-top: 20px;
-    padding-bottom: 20px;}
+    padding-bottom: 20px;
+    font-size: 24px;}
 
-#gallery-header{
-    padding-left: 40px;
-    width:90%;}
 
 /* ----- Gallery Images Style -----*/
 #gallery-photos {
@@ -241,7 +238,7 @@ figcaption {
 
 #gallery-photos > img {
     width: 100%;
-padding-top: 15px;}
+    padding-top: 15px;}
 
 #gallery-footer {
     height: 20px;
@@ -250,19 +247,21 @@ padding-top: 15px;}
 
 /* -------------------- Services Page -------------------- */
 
-#services-header-image {
-    height: 575px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;}
-
-#services-welcome h1, h4{
+#services-welcome h1{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     text-transform: uppercase;
-    margin-left:15%;
+    margin-left:13%;
     width: 70%;}
+
+    #services-welcome h4{
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-transform: uppercase;
+        margin-left:15%;
+        width: 70%;}
 
 #services-welcome p {
     width: 70%;
@@ -341,7 +340,7 @@ padding-top: 15px;}
         color: #0B0B45;}
 
 #services-footer {
-    height: 20px;
+    height:auto;
     background-color: #fdd008;
     margin-top: 700px;}
 
@@ -358,7 +357,7 @@ padding-top: 15px;}
 .contact-form {
     margin: 0 5% 0 0;
     color: black;
-    border: 1px solid #3850a2;
+    border: 1px solid black;
     max-width: 600px;
     position: absolute;
     left: 40px;
@@ -410,7 +409,6 @@ padding-top: 15px;}
 #map {
     max-width: 70%;
     margin-left: 50%; 
-    margin-top: 50px;
     margin-bottom: 40px;
     width:42.7%; 
     height:50%;
@@ -424,6 +422,8 @@ padding-top: 15px;}
     /*----Find us ----*/
 .contact-us > h2{
     padding-right: 200px;
+    text-transform: uppercase;
+    font-size: 24px;
 }
 .contact-us{
     text-align: center;
