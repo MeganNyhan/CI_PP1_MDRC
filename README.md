@@ -466,9 +466,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | ----------- | ----------- |
 | Website Fonts don't work in Firefox| Choose back-up font for other browsers |
 | Website moves to the lef on larger monitors | Add another media quiery for larger than laptop screens |
-| Website is resposive to most popular iphones (ie. iphone 6/7/8) but not newer and larger models | Add a media query to allow the margins of the site to be bigger|
 | Nav bar changes when viewed on larger phone sizes | Add a media query that makes the divs spread to 100% width on larger than 375px small screens |
-| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+| When viewed on mobile the Map is too big for the screen  | change the width in th ehtml file |
 <hr>
 <br>
 

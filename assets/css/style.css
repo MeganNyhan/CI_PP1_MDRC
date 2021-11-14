@@ -1228,7 +1228,8 @@ figcaption {
 .form-section {
     clear: both;
     background-color: #fff;
-    background-size: cover;}
+    background-size: cover;
+    padding-bottom: 80px;}
 
 .contact-form {
     margin: 0 5% 30% 0;
@@ -1288,6 +1289,7 @@ figcaption {
     width:20%; 
     height:40%;
     background-color: #fff;
+    width: 100%;
     } 
 
 #contact-footer {
