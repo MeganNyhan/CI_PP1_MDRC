@@ -259,7 +259,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     </ul>
     <p> User Stories covered : 1, 2, 4, 6</p>
     <p>Site Owner's Stories covered: 1, 2, 3, 4</p> 
-        <details><summary>Footer</summary>
+        <details><summary>Services grid and Contact Button</summary>
         <img src="assets/images/services-page-features.png"></details>
     <br>
 
@@ -272,8 +272,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> The main purpose of the gallery is to encourage users to get active in the community and be aware of the events that are taking place.</li></ul>
     <p> User Stories covered : 3, 4</p>
     <p>Site Owner's Stories covered: 2, 4</p>
-        <details><summary>Footer</summary>
-        <img src="assets/images/footer-feature.png"></details>
+        <details><summary>Gallery Grid</summary>
+        <img src="assets/images/gallery-features.png"></details>
     <br> 
 
 ### Contact Page
@@ -281,11 +281,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 #### Google Maps Feature and Contact Form
 <ul>
-    <li>The coantact page offers the user a chance to view the location of the office in the Milford Area on Google Maps. </li>
+    <li>The contact page offers the user a chance to view the location of the office in the Milford Area on Google Maps. </li>
     <li> The contact form offers the users to message the office to ask about a certain service, or inquire about general queries easily and directly.</li>
-    <li> Another purpose of th contact page and it's elements is to encourage the user to contact the office to enquire about the services offered.</li></ul>
+    <li> Another purpose of th contact page and it's elements is to encourage the user to contact the office to inquire about the services offered.</li></ul>
     <p> User Stories covered :2, 3, 5, 6</p>
     <p>Site Owner's Stories covered: 2, 4, 6</p> 
+        <details><summary>Contact: Google Maps</summary>
+        <img src="assets/images/google-maps-feature.png"></details>
+        <details><summary>Contact: Contact Form</summary>
+        <img src="assets/images/contact-form-feature.png"></details>
      <br>
 <hr>
 
