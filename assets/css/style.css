@@ -404,25 +404,6 @@ padding-top: 15px;}
     display: block;
 }
 
-#contact-header-image{
-    height: auto;}
-
-#image-contact{
-    height: 575px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;}
-
-#contact-header{
-    padding-left:25%; 
-    text-transform: uppercase;}
-
-#contact-info{
-    margin-left: 60px; 
-    text-transform: uppercase;
-    width: 40%;
-    float: right;}
-
 /* --- Map ---*/
 
 #map {
@@ -432,12 +413,23 @@ padding-top: 15px;}
     margin-bottom: 40px;
     width:42.7%; 
     height:50%;
-    border:#2EB0E5 1px solid;} 
+    border:black  1px solid;} 
 
 #contact-footer {
     height: 20px;
     background-color: #fdd008;
     margin-top: 100px;}
+
+    /*----Find us ----*/
+
+.contact-us{
+    text-align: center;
+    padding-left:30px;
+}    
+
+.content1 .content2 .content3{
+    float:right;
+}
 
                      /*-------Media Queries (Tablet)--------*/
 
