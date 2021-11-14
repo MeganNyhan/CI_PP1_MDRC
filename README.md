@@ -331,19 +331,19 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 ### Testing Site Owner's Stories
 
-    1."As a user, I want to be able to view the services that I can avail of in my local community."
+    1."As the owner of the site, I want my potential customers to have a place where they can view the services I offer."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button |    Works as expected |
+| Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button | Works as expected |
 | Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
 
 <hr>
 
-    2."As a user, I want to know where I can get a avail of printing in my area."
+    2."As the owner, I want to have an online platform that can be a hub of information for the locals in the area."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services information grid| Navigate to the Services page, locate the services grid and read prinitng info box | Finds the printing box and goes to the contact page using contact button |   Works as expected |
-| Nav- Locate services page, services list and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+| Home Page | Allows the owner to easily up date and change the information displayed on the site.| Works as expected |
+| Home page is the landing page which users will land on firat | Update the website as needed | New information displayed | Works as expected |
 
 <hr>
 
