@@ -425,11 +425,18 @@ padding-top: 15px;}
 .contact-us{
     text-align: center;
     padding-left:30px;
+    padding-bottom: 120px;
 }    
 
-.content1 .content2 .content3{
-    float:right;
+.content1{
+    float:left;
+    padding-left: 50px;
 }
+.content2{float:left;
+padding-left: 50px;}
+
+.content3{float:left;
+    padding-left: 50px;}
 
                      /*-------Media Queries (Tablet)--------*/
 
