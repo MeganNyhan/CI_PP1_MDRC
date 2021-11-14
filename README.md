@@ -252,12 +252,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
      <br>
 
 ### Services Page
-#### Services Features (Contact us for more button)
+#### Services Grid and Contact us for more Button
 <ul>
     <li> The services page is very plane. It features a grid style list of services that the resource center provides with a button to redirect the user to the contact page in a new tab.</li>
+    <li> The purpose of adding the contact button is so that users will be redired to the contact page to encourage them to contact the company about the services they are interested in. This covers a site owner story too.</li>
     </ul>
     <p> User Stories covered : 1, 2, 4, 6</p>
     <p>Site Owner's Stories covered: 1, 2, 3, 4</p> 
+        <details><summary>Footer</summary>
+        <img src="assets/images/footer-feature.png"></details>
     <br>
 
 ### Gallery Page

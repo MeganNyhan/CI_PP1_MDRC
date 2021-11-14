@@ -342,8 +342,11 @@ padding-top: 15px;}
     margin-bottom: 80px;}
 
 /*-----Contact Button------*/    
-.btn-btn-outline-primary{
-    color: #0B0B45;}
+.btn-btn-outline-primary1{
+    color: #fff;}
+
+.btn-btn-outline-primary2{
+        color: #0B0B45;}
 
 #services-footer {
     height: 20px;
