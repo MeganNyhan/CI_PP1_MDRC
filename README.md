@@ -388,8 +388,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | Home Page | Allows the owner to easily up date and change the information displayed on the site.| Works as expected |
 | Home page is the landing page which users will land on firat | Update the website as needed | New information displayed | Works as expected |
 <details><summary>User Testing 8</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/user-story-8.png">
+</details>
 <hr>
 
     3."As the owner, I want a website that is accessible to anyone."
@@ -398,8 +398,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | Simple style Navigation | Navigation allows users a restricted choice between possible pages they need information from (Restricted as it doesn't allow too many decisions) | Finds the information they need easily |   Works as expected |
 |Nav bar at the top of page allows simple navigation throughput site, providing a good User Experience | On any page scroll up to the nav bar | Find the information they wanted seamlessly | Works as expected |
 <details><summary>User Testing 9</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/nav-bar.png">
+<p> The Navigation bar is simple and easily used by anyone.</p></details>
 <hr>
 
     4."As the owner, I want a site that will encourage my customers to use the services we have to offer."
@@ -408,8 +408,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |Navigation, Services Page, and Services Grid| Navigate to the services page where you can view the services grid| Finds the information on the services they wanted | Works as expected |
 |Nav bar on top of each page including a link to the services page | On any page scroll up to the nav bar and select the services tab | Find any information on services available to the user and offer the possibilitiy of contacting the centre for more information they need | Works as expected |
 <details><summary>User Testing 10</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/user-story-6.png">
+</details>
 <hr>
 
     5."As the owner, I want a site that will have the potential to be built upon in the future."
@@ -417,8 +417,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 | Nav bar with the option of expanding to hold more pages| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the nav bar without comprimising the readability| Works in progress |
 <details><summary>User Testing 11</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/nav-bar.png">
+<p> The Navigation bar is simple and can easily be extended on any device..</p>
+</details>
 <hr>
 
     6."As the owner, I want the customers to easily locate the company."
