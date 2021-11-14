@@ -370,11 +370,11 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <hr>
 
-    6."As a user who owns a local business, I want to contact them get a quote for the price of business cards."
+    6."As the owner, I want the customers to easily locate the company."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Services Page, and Graphic Design box with contact button | Navigate to the Services page, locate the services information and the contact us button | Finds the phone number when redirected to the phone number and calls the office or uses the contact form to ask for a qoute |
-|Services information grid, Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies services information and contact inforamtion to ask for a qoute easily | Works as expected |
+|Contat Page with a adress and google maps link | Navigate (using the nav bar) to the Contact Page and find at the top of the page an adress, and when scrolled down the user will find a map too | Find the location easily and travels to the office | Works as Expected|
+|Contact page with address and map, also a phone number for back up incase someone doesn't understand the map| On any page scroll up to the nav bar and find the contact page | Finds the companies address and other location informtion | Works as expected |
 
 ## Bugs:
 <hr>
