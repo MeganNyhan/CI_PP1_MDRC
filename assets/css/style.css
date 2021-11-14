@@ -227,30 +227,24 @@ figcaption {
 /* -------------------- Gallery ----------------------- */
 
 .gallery-heading {
-    padding-left: 17%;
+    padding-left: 15%;
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 20px;}
 
-#header-image-gallery{
+#gallery-header{
     padding-left: 40px;
-    width: 100%;}
+    width:90%;}
 
 /* ----- Gallery Images Style -----*/
-
 #gallery-photos {
     clear: both;
-    column-count: 3;
-    column-gap: 0;}
+    column-count: 2;
+    column-gap: 2; }
 
 #gallery-photos > img {
-    width: 100%;}
-
-#header-image-gallery{
-    height: 560px;
     width: 100%;
-    overflow: hidden;
-    position: relative;}
+padding-top: 15px;}
 
 #gallery-footer {
     height: 20px;
