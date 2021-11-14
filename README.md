@@ -327,7 +327,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 | Services information grid| Navigate to the Services page, locate the services grid and read prinitng info box | Finds the printing box and goes to the contact page using contact button |   Works as expected |
 | Nav- Locate services page, services list and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
-
+<details><summary>User Testing 2</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 <hr>
 
     3."As a user with the view of visting the office, I want to know exactly where it is located."
