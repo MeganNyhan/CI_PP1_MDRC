@@ -241,9 +241,9 @@ figcaption {
     padding-top: 15px;}
 
 #gallery-footer {
-    height: 20px;
+    height:auto;
     background-color: #fdd008;
-    margin-top: 100px;}
+    margin-top: 80px;}
 
 /* -------------------- Services Page -------------------- */
 
