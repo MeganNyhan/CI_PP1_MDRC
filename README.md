@@ -283,17 +283,99 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 ### Testing User Stories
 
-"As a user, I want to be able to view the services that I can avail of in my local community."
+    1."As a user, I want to be able to view the services that I can avail of in my local community."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button |    Works as expected |
 | Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
 
-"As a user, I want to know where I can get a avail of printing in my area."
+<hr>
+
+    2."As a user, I want to know where I can get a avail of printing in my area."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Services information grid| Navigate to the Services page, locate the services grid and read prinitng info box | Finds the printing box and goes to the contact page using contact button |   Works as expected |
 | Nav- Locate services page, services list and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+
+<hr>
+
+    3."As a user with the view of visting the office, I want to know exactly where it is located."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Information and Google Maps| Navigate to the Contact page, locate the contact information and google maps box | Finds the location and travels to the office |   Works as expected |
+|Google Maps in contact page and other contact information | On any page scroll up to the nav bar | Find the comapnies contact inforamtion and google maps box | Works as expected |
+
+<hr>
+
+    4."As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Navigation| Navigate to any pages in the site, and perform desired goal | Finds the information they wanted | Works as expected |
+|Nav bar on top of each page | On any page scroll up to the nav bar | Find any information available to the user | Works as expected |
+
+<hr>
+
+    5."As a user who doesn't understand websites, I want to easily find a phone number for the office so I can contact them."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Information | Navigate to the Contact page, locate the contact information and phone number or contact form | Finds the phone number and calls the office or uses the contact form to conact the office via email| Works as expected |
+|Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies contact inforamtion | Works as expected |
+
+<hr>
+
+    6."As a user who owns a local business, I want to contact them get a quote for the price of business cards."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Services Page, and Graphic Design box with contact button | Navigate to the Services page, locate the services information and the contact us button | Finds the phone number when redirected to the phone number and calls the office or uses the contact form to ask for a qoute |
+|Services information grid, Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies services information and contact inforamtion to ask for a qoute easily | Works as expected |
+
+### Testing Site Owner's Stories
+
+    1."As a user, I want to be able to view the services that I can avail of in my local community."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button |    Works as expected |
+| Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+
+<hr>
+
+    2."As a user, I want to know where I can get a avail of printing in my area."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Services information grid| Navigate to the Services page, locate the services grid and read prinitng info box | Finds the printing box and goes to the contact page using contact button |   Works as expected |
+| Nav- Locate services page, services list and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+
+<hr>
+
+    3."As a user with the view of visting the office, I want to know exactly where it is located."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Information and Google Maps| Navigate to the Contact page, locate the contact information and google maps box | Finds the location and travels to the office |   Works as expected |
+|Google Maps in contact page and other contact information | On any page scroll up to the nav bar | Find the comapnies contact inforamtion and google maps box | Works as expected |
+
+<hr>
+
+    4."As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Navigation| Navigate to any pages in the site, and perform desired goal | Finds the information they wanted | Works as expected |
+|Nav bar on top of each page | On any page scroll up to the nav bar | Find any information available to the user | Works as expected |
+
+<hr>
+
+    5."As a user who doesn't understand websites, I want to easily find a phone number for the office so I can contact them."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Information | Navigate to the Contact page, locate the contact information and phone number or contact form | Finds the phone number and calls the office or uses the contact form to conact the office via email| Works as expected |
+|Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies contact inforamtion | Works as expected |
+
+<hr>
+
+    6."As a user who owns a local business, I want to contact them get a quote for the price of business cards."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Services Page, and Graphic Design box with contact button | Navigate to the Services page, locate the services information and the contact us button | Finds the phone number when redirected to the phone number and calls the office or uses the contact form to ask for a qoute |
+|Services information grid, Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies services information and contact inforamtion to ask for a qoute easily | Works as expected |
 
 ## Bugs:
 <hr>
