@@ -658,7 +658,7 @@ figcaption {
 /* footer */
 
 #home-footer {
-    height: 10px;
+    height: auto;
     background-color: #fdd008;
     padding-top:20px;
     margin-top: 1304px;}
@@ -677,14 +677,6 @@ figcaption {
 
 /* -------------------- Services Page -------------------- */
 
-#services-header-image{
-    height: 500px;
-    width: 710px;
-    overflow: hidden;
-    position: relative;
-    padding-left: 20px;
-    padding-top: 20px;}
-
 #services-list{
     padding-bottom: 1400px;}
 
@@ -699,7 +691,7 @@ figcaption {
 #services-welcome p {
     width: 90%;
     text-align: justify;
-    padding-left: 30px;
+    padding-left: 40px;
     font-size: 20px;}
 
 #services-welcome {
@@ -711,23 +703,25 @@ figcaption {
 #section1 {
     background-color: #2EB0E5;
     Width: 90%;
-    height: 300px;
+    height: 250px;
     float: left;
     margin-left: 40px;
-    text-align: center;}
+    text-align: center;
+}
 
 #section2 {
     background-color: #fff;
     Width: 90%;
-    height: 300px;
+    height: 250px;
     float: left;
     margin-left: 40px;
-    text-align: center;}
+    text-align: center;
+}
 
 #section3 {
     background-color: #2EB0E5;
     Width: 90%;
-    height: 300px;
+    height: 250px;
     float: left;
     margin-left: 40px;
     text-align: center;}
@@ -735,42 +729,45 @@ figcaption {
 #section4 {
     background-color: #fff;
     Width: 90%;
-    height: 350px;
+    height: 250px;
     float: left;
     margin-left: 40px;
-    text-align: center;}
+    text-align: center;
+}
 
 #section5 {
     background-color: #2EB0E5;
     Width: 90%;
-    height: 330px;
+    height: 250px;
     float: left;
     margin-left: 40px;
-    text-align: center;}
+    text-align: center;
+}
 
 #section6 {
     background-color: #fff;
     Width: 90%;
-    height: 300px;
+    height: 250px;
     float: left;
     margin-left: 40px;
-    text-align: center;}
+    text-align: center;
+}
 
 #services-list h2 {
     margin-top: 40px;
     padding-bottom: 20px;
     padding-right: 10px;
-    padding-left:10px;}
+    padding-left:10px;
+}
 
 #services-list p {
     padding-right: 20px;
-    padding-left:20px;}
-
-#services-list {
-    margin-bottom: 80px;}
+    padding-left:20px;
+}
 
 #services-footer{
-    margin-top:440px;}
+    margin-top: 100px;
+}
 
 /* --------------Gallery Page ---------------- */
 /*--- Gallery Header ----*/
@@ -799,56 +796,91 @@ figcaption {
 
 /*---------------------- Contact Page  -----------------------------*/
 
-#image-contact{
-    height: 500px;
-    width: 720px;
-    overflow: hidden;
-    position: relative;
-    padding-left: 20px;
-    padding-top: 20px;}
+/*---- Love running project code -----*/
+/* ---- Form ----*/ 
+.form-section {
+    clear: left;
+    background-color: #edf3fa;
+    background-size: cover;
+    background-position: center;}
 
-#contact-header{
+.contact-form {
+    margin: 0 5% 0 0;
+    color: black;
+    border: 1px solid black;
+    max-width: 600px;
+    position: absolute;
+    left: 40px;
+    padding: 30px;
+}
+
+.contact-form > h2 {
+    color:black;
+    padding-bottom: 20px;
     text-transform: uppercase;
+}
+
+.text-input {
+    background: transparent;
+    color: black;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid black;
+    border-radius: 2px;}
+
+.message-input{
+    background: transparent;
+    color: black;
+    width: 100%;
+    height: 105px;
+    margin: 5px 0 20px 0;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #2EB0E5;
+}
+
+.submit-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
     text-align: center;
-    padding-right: 25%;}
+    font-size: 100%;
+    background-color: #fdd008;
+    color: #3a3a3a;
+    display: block;
+}
 
-#contact-info{
-    margin-left: 40px; 
-    text-transform: uppercase;
-    width: 40%;
-    float: left;
-    text-align: left;
-    padding-bottom: 20px;}
-
-/*--- Form ---*/ 
-
-#contact-form-p  {
-    margin-left: 1px;
-    margin-top: 10px; }
-
-#contact-form {
-    padding-top: 60px;}
-
-input {
-        margin-top: 20px;
-        padding-left:10px;}
-    
-#form{ 
-        text-align: left;
-        width: 100%;
-        margin-left: 40px;
-        padding-top: 40px;}
-    
-#form h1{
-        text-transform: uppercase;}
-
-/*-- Map --*/
+/* --- Map ---*/
 
 #map {
-    margin-left: 40px;
-    width:100%; 
-    height:300px;}
+    float: right;
+    margin-bottom: 40px;
+    width:42.7%; 
+    height:40%;
+    } 
+
+#contact-footer {
+    height:auto;
+    background-color: #fdd008;}
+
+    /*----Find us ----*/
+.contact-us > h2{
+    padding-right: 180px;
+    text-transform: uppercase;
+    font-size: 24px;
 }
+.contact-us{
+
+    padding-left:30%;
+    padding-bottom: 12%;
+    padding-top: 20px;
+    background-color: #edf3fa;
+}    
+
 
  /* Mobile phone media querie */
 
@@ -1240,4 +1272,5 @@ figcaption {
     margin-left: 30px;
     width:100%; 
     height:300px;}
+}
 }
