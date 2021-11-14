@@ -7,14 +7,16 @@
 <br>
 <br>
 
- <h1>PROJECT 1: THE MILFORD AND DISTRICT RESOURCE CENTRE WEBSITE </h1>
+ # PROJECT 1: THE MILFORD AND DISTRICT RESOURCE CENTRE WEBSITE
 
 The MDRC website is a website for the company Milford and District Resource Centre (MDRC). The company itself is a central hub of community services that are offerd the local community of Milford. The site owner's (MDRC) goal of the site is for the site to be a public source of information regarding the services the resource centre has to offer. The external's user's goal is to learn more about the services offered to them by the resource centre and to be able to ask for more information about the services through the website. I chose this company to work with as I am their in-house graphic designer and recognised their need for a website.
 <br>
-
 <hr>
-<h2><strong>Project Goals:</strong></h2>
-<h3><strong>User Goals</strong></h3>
+
+## Project Goals
+
+### User Stories
+
 <ul>
     <li>Finding what <strong>services are availbale</strong> to them (the members of the local community) in their local community.
     </li>
@@ -23,7 +25,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>Find the <strong>location</strong> of the centre</li>
 </ul>
 
-<h3><strong>Site Owner's Goals:</strong></h3>
+### Site Owner's Stories
     <ul>
     <li> Increase traffic to the website.</li>
     <li> Increase profits from sales of services in the office through increased promotion of them through the website.</li>
@@ -32,11 +34,12 @@ The MDRC website is a website for the company Milford and District Resource Cent
     </ul>
 
 <hr>
-<h2><strong>User Experience:</strong></h2>
-<h3> <strong>Target Audience </strong> </h3>
+
+### User Experience:
+### Target Audience 
 <p> The target audience for this site is quite broad. The centre itself offers printing, graphic design, bookeeping, social prescribing, room rental, and support for the over 65's. On the daily, the centre would have members of the public from varied backgrounds, technical abilities and age groups. </p>
 
-<h3><strong>User Requirements</strong></h3>
+### User Requirements
 <p>As I have mentioned, we have a very large/ varied target audience, and becasue of this the site has to be simple in design and very accessible. They way I have tackled this are as follows:</p>
 <ul>
     <li>Simple navigation that is non-ambiguous</li>
@@ -46,7 +49,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>A straightforward and professional form that allows users to easily contact the business.</li>
 </ul>
 
-<h3><strong>User Stories</strong></h3>
+### User Stories
 <h3><strong>First time and Recurring Stories</strong></h3>
 <ol>
     <li>As a user, I want to be able to view the services that I can avail of in my local community.</li>
@@ -70,22 +73,22 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <hr>
 
-<h2><strong>Design:</strong></h2>
-<h3><strong>Design Choices</strong></h3>
+## Design:
+### Design Choices
 
 <p> The company itself is a company with a wide target audience, and with this in mind I wanted to create a site that was accessible to everyone regardless of their technical ability, and ability to operate a computer. I wanted all designs to be simplistic, the navigation to be logical and seamless and for the accessibility to be a primary concern. </p>
 
-<h3><strong>Colour</strong></h3>
+### Colour
 
   <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available to be as a member of the organisation. To verfiy the contrast in colours were accessible I tested them on WebAIM which they all passed as readable. </p>
 
 <details><summary>Colours and Brand Guidelines</summary>
   <img src="assets/images/mdrc-brand-guidelines.png"></details>
 
-  <h3><strong>Fonts</strong></h3>
+ ### Fonts
   <p>Fonts used on the website were Open Sans Bold and Open Sans Light. Open sans bold was used for headings and open sans light was used in paragraphs.</p>
 
-  <h3><strong>Structure</strong></h3>
+ ### Structure
 <p>The strucutre of this website was designed to be easily navagated through and easy to learn. I made sure that each page followed a similar structure but didn't comprimise the content that each page held. The following pages are within the structure of the site:</p>
 
 <ul>
