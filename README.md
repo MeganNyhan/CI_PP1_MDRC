@@ -45,7 +45,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 11. [Acknowledgements](#acknowledgements)
 <br>
 
-## Project Goals
+## Project Goals 
 <br>
 
 ### User Stories
@@ -196,6 +196,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <hr>
 
 ## Features:
+<p>This site has four pages with a total of nine features.</p>
 <br>
 
 ### Home Page

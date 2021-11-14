@@ -2,6 +2,11 @@
 
 /*--- Logo ---*/
 
+#responsive{
+        width: 100%;
+        height: auto;
+      }
+
 #logo {
     float:right;
     text-transform: uppercase;
