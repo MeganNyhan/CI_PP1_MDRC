@@ -416,43 +416,20 @@ figcaption {
     }
 
 #middlecontent {
+    padding-right: 50px;
     text-transform: uppercase;
-    padding-left: 40px;
+    text-align:center;
     font: normal 20px Open Sans;}
 
 #goomap {
-    padding-right: 40px;
-    float:right;
+    padding-right:60px;
+float:right;
 }
 
 #contact-footer {
     height:auto;
     background-color: #fdd008;
 }
-
-    /*----Find us ----*/
-.contact-us > h2{
-    padding-right: 40%;
-    text-transform: uppercase;
-    font-size: 24px;
-}
-.contact-us{
-    padding-left: 25%;
-    text-align: center;
-    padding-top: 20px;
-    background-color: #fff;
-}    
-
-.content1{
-    float:left;
-    padding-right: 120px;
-}
-.content2{float:left;
-    padding-right: 120px;
-}
-
-.content3{float:left;
-    padding-right: 120px;}
 
                      /*-------Media Queries (Tablet)--------*/
 
@@ -818,7 +795,7 @@ figcaption {
     max-width: 600px;
     position: absolute;
     left: 40px;
-    padding-right: 50px;
+    padding-left: 70px;
 }
 
 .contact-form > h2 {
@@ -862,32 +839,25 @@ figcaption {
 }
 
 /* --- Map ---*/
+/* --- Map Stack Overflow  ---*/
+#middle {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    margin-top: 65px;
+    background-color:#fff;
+    }
 
-#map {
-    float:left;
-    margin-bottom: 40px;
-    padding-left: 10%;
-    width:42.7%; 
-    height:40%;
-    background-color: #fff;
-    } 
-
-#contact-footer {
-    height:auto;
-    background-color: #fdd008;}
-
-    /*----Find us ----*/
-.contact-us > h2{
-    background-color: #fff;
+#middlecontent {
+    padding-right: 20px;
     text-transform: uppercase;
-    font-size: 28px;
-}
-.contact-us{
-    text-align: left;
-    font-size: 22px;
-    background-color: #fff;}   
-    
+    text-align:center;
+    font: normal 20px Open Sans;}
 
+#goomap {
+    padding-right:20px;
+float:right;
+}
 
  /* Mobile phone media querie */
 
@@ -898,7 +868,7 @@ figcaption {
 /* -----Navigation------ */
 
 nav{height: 10px;
-    width: 94%;}
+    width: 100%;}
 
 nav ul {background-color: #fdd008;
         width: 95%;
@@ -1238,36 +1208,24 @@ figcaption {
 
 /*---------------------- Contact Page  -----------------------------*/
 
-#map {
-    padding-top: 30%;
-}
+/* --- Map ---*/
+/* --- Map Stack Overflow  ---*/
+#middle {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    margin-top: 65px;
+    background-color:#fff;
+    }
 
-#image-contact{
-    height: 575px;
-    width: 90%;
-    overflow: hidden;
-    position: relative;}
-
-#contact-header h1{
-    margin-left: 10px;
-    text-align: center;}
-
-#contact-info{
-    margin-left: 105px; 
+#middlecontent {
+    padding-right: 20px;
     text-transform: uppercase;
-    width: 40%;
-    float: left;
-    text-align: center;
-    margin-bottom: 20px;}
+    text-align:center;
+    font: normal 20px Open Sans;}
 
-.content1{
-    width: 90%;
-}
-.content2{
-    width: 90%;
-}
-.content3{
-    width: 90%;
+#goomap {
+    float:right;
 }
 
 /* From */
