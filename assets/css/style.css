@@ -333,10 +333,10 @@ figcaption {
     margin-bottom: 80px;}
 
 /*-----Contact Button------*/    
-.btn-btn-outline-primary1{
+.button1{
     color: #fff;}
 
-.btn-btn-outline-primary2{
+.button2{
         color: #0B0B45;}
 
 #services-footer {
@@ -349,12 +349,15 @@ figcaption {
 /*---- Love running project code -----*/
 /* ---- Form ----*/ 
 .form-section {
+    padding-top: 20px;
     clear: left;
     background-color: #fff;
     background-position: center;
-    height: 600px;}
+    height: 600px;
+    padding-left: 10%;
+    padding-bottom: 90px;}
 
-.contact-form {float: left;
+.contact-form {
     margin: 0 10px 0 0;
     color: black;
     border: 1px solid black;
@@ -403,9 +406,24 @@ figcaption {
     color: #3a3a3a;
     display: block;
 }
-/* --- Map ---*/
-#map {
-    float:left;
+/* --- Map Stack Overflow  ---*/
+#middle {
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+    height: 400px;
+    margin-top: 65px;
+    border:3px solid #999;
+    background-color:#333;
+    }
+
+#middlecontent {
+    font: normal 12px Open Sans;
+    padding: 10px;
+}
+
+#goomap {
+float:right;
 }
 
 #contact-footer {
@@ -414,13 +432,13 @@ figcaption {
 
     /*----Find us ----*/
 .contact-us > h2{
-    margin-left: 10px;
+    padding-right: 40%;
     text-transform: uppercase;
     font-size: 24px;
 }
 .contact-us{
+    padding-left: 25%;
     text-align: center;
-    padding-left:20%;
     padding-top: 20px;
     background-color: #fff;
 }    
@@ -430,11 +448,11 @@ figcaption {
     padding-right: 120px;
 }
 .content2{float:left;
-    padding-right: 300px;
+    padding-right: 120px;
 }
 
 .content3{float:left;
-    padding-right: 200px;}
+    padding-right: 120px;}
 
                      /*-------Media Queries (Tablet)--------*/
 
