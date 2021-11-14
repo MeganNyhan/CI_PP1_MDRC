@@ -476,7 +476,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 ### Source Code Used in Site
 
-<p> Due to limitations in my knowledge I google certain code that I wanted to use for the site, see code listed below:</p>
+<p> Due to limitations in my knowledge I googled certain code that I wanted to use for the site, see code listed below:</p>
 <ul>
 <li> The meet the team code (both HTML and CSS) was taken from the following site: https://www.w3schools.com/howto/ howto_css_images_side_by_side.asp </li>
 

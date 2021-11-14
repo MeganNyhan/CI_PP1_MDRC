@@ -354,7 +354,7 @@ figcaption {
     background-color: #fff;
     background-position: center;
     height: 600px;
-    padding-left: 10%;
+    padding-left: 90px;
     padding-bottom: 90px;}
 
 .contact-form {
@@ -410,25 +410,25 @@ figcaption {
 #middle {
     margin-right: auto;
     margin-left: auto;
-    width: 70%;
-    height: 400px;
+    width: 100%;
     margin-top: 65px;
-    border:3px solid #999;
-    background-color:#333;
+    background-color:#fff;
     }
 
 #middlecontent {
-    font: normal 12px Open Sans;
-    padding: 10px;
-}
+    text-transform: uppercase;
+    padding-left: 40px;
+    font: normal 20px Open Sans;}
 
 #goomap {
-float:right;
+    padding-right: 40px;
+    float:right;
 }
 
 #contact-footer {
     height:auto;
-    background-color: #fdd008;}
+    background-color: #fdd008;
+}
 
     /*----Find us ----*/
 .contact-us > h2{
