@@ -48,7 +48,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 ## Project Goals 
 <br>
 
-### User Stories
+### User Goals
 
 <ul>
     <li>Finding what <strong>services are availbale</strong> to them (the members of the local community) in their local community.
@@ -60,7 +60,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <br>
 
-### Site Owner's Stories
+### Site Owner's Goals
 <ul>
     <li> Increase traffic to the website.</li>
     <li> Increase profits from sales of services in the office through increased promotion of them through the website.</li>
