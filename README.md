@@ -16,8 +16,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 ## Table of Content
 
 1. [Project Goals](#project-goals)
-    2. [User Stories](#user-stories)
-    3. [Site Owner's Stories](#site-owners-stories)
+    1. [User Goals](#user-goals)
+    2. [Site Owner's Goals](#site-owners-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
     2. [User Requrements](#user-requrements)
