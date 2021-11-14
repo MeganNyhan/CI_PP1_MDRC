@@ -314,6 +314,19 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <br>
 
 ## Performance
+<p> To determine my sites performance, I used the Ligthouse web accessibility develepment tool. My site was awarded the following: </p>
+<details><summary>Home page</summary>
+<img src="assets/images/lighthouse-home-page.png"></details>
+<details><summary>Services page</summary> 
+<img src="assets/images/lighthouse-services-page.png"></details>
+<details><summary>Gallery page</summary>
+<p>My Gallery page has poor performance because of the amount of images that are embeded into the gallery grid.</p>
+<img src="assets/images/lighthouse-gallery-page.png"></details>
+<details><summary>Contact page</summary>
+<img src="assets/images/lighthouse-contact-page.png"></details>
+<br>
+
+
 <p>The site was tested on the following decives:</p>
 <ol>
 <li>MacBook Pro</li>
