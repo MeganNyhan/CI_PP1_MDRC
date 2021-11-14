@@ -13,6 +13,38 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <br>
 <hr>
 
+## Table of Content
+
+1. [Project Goals](#project-goals)
+    2. [User Stories](#user-stories)
+    3. [Site Owner's Stories](#site-owners-stories)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requrements](#user-requrements)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
+
 ## Project Goals
 
 ### User Stories
@@ -50,7 +82,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 </ul>
 
 ### User Stories
-<h3><strong>First time and Recurring Stories</strong></h3>
+### First time and Recurring Stories
 <ol>
     <li>As a user, I want to be able to view the services that I can avail of in my local community.</li>
     <li>As a user, I want to know where I can get a avail of printing in my area.</li>
@@ -61,7 +93,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>As a user who owns a local business, I want to contact them get a quote for the price of business cards.</li>
 </ol>
 
-<h3><strong>Site's Owner Stories</strong></h3>
+### Site's Owner Stories
 <ol>
     <li>As the owner of the site, I want my potential customers to have a place where they can view the services I offer. </li>
     <li>As the owner, I want to have an online platform that can be a hub of information for the locals in the area.</li>
@@ -99,7 +131,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <hr>
 
-<h3><strong>Wireframes</strong></h3>
+### Wireframes
 
 <p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far developed and changes I have made personally to the look of the site when building it.</p>
 
@@ -117,15 +149,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <hr>
 
-<h2><strong>Technology:</strong></h2>
-<h3><strong>Develpoment Languages Used</strong></h3>
+## Technology:
+### Develpoment Languages Used
 
 <ul>
 <li> HTML5 </li>
 <li> CSS </li>
 </ul>
 
-<h3><strong>Frameworks and Tools Used</strong></h3>
+### Frameworks and Tools Used
 <ul>
 <li> Bootstrap  </li>
 <li> Git, GitHUb, and GitPod </li>
@@ -137,27 +169,32 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <hr>
 
-<h2><strong>Features:</strong></h2>
-<h3><strong>Home Page</strong></h3>
-<h4>Navigation Bar</h4>
-    <ul>
-        <li>The navigation bar is featured on all four of the pages that make up the website. The navigation bar includes links to the Home Page, the Services Page, the Gallery Page and the Contact Page, and also the logo that re-directs you to the home page. The navigation bar is identical on each page to allow for easy navigation for each of the users. The design of the navigation bar is simple to limit ambiguity with the user. </li>
-        <li> The main purpose of the navigation bar in the site is to allow the user easy travel through the site without the need of a previous or back button. </li>
-        <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.
+## Features:
+### Home Page
+#### Navigation Bar
+
+<ul>
+    <li>The navigation bar is featured on all four of the pages that make up the website. The navigation bar includes links to the Home Page, the Services Page, the Gallery Page and the Contact Page, and also the logo that re-directs you to the home page. The navigation bar is identical on each page to allow for easy navigation for each of the users. The design of the navigation bar is simple to limit ambiguity with the user. </li>
+    <li> The main purpose of the navigation bar in the site is to allow the user easy travel through the site without the need of a previous or back button. </li>
+    <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.
     </ul>
-    <h4>Welcome Section</h4>
-    <ul>
+
+#### Welcome Section
+<ul>
     <li>The welcome section of the site offers a quick introduction to the company. </li>
     <li> It also include an image of the building so the office is easily identifiable and eay to locate.</li>
     </ul>
-    <h4>Meet the Team Section</h4>
-     <ul>
+
+#### Meet the Team Section
+
+<ul>
      <li>
      Also featured on the main page is a meet the team section which shows the user who they can expect to see when they visit the office.  </li>
      <li> The meet the team section also goes into detail of what each person work as and what they can help you with.
      </li></ul>
-     <h4>Footer</h4>
-     <ul>
+
+#### Footer
+<ul>
      <li> The footer allows the user to contact and view the social media pages that the organisation have.</li>
      <li> The social media links comprise of the respective social network icons for easy accessibility.</li>
     <h3><strong>Services Page</strong></h3>
@@ -165,20 +202,22 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <ul>
     <li> The services page is very plane. It features a grid style list of services that the resource center provides with a button to redirect the user to the contact page in a new tab.</li>
     </ul>
-    <h3><strong>Gallery Page</strong></h3>
-    <h4>Gallery grid</h4>
-    <ul>
+
+### Gallery Page
+#### Gallery grid
+<ul>
     <li>The gallery page features a grid of photos taken of the local community.</li></ul>
-    <h3><strong>Contact Page </strong></h3>
-    <h4>Google Maps Feature and Contact Form</h4>
-    <ul>
+
+### Contact Page
+#### Google Maps Feature and Contact Form
+<ul>
     <li>The coantact page offers the user a chance to view the location of the office in the Milford Area on Google Maps. </li>
     <li> The contact form offers the users to message the office to ask about a certain service, or inquire about general queries easily and directly.</li></ul>
      
 <hr>
 
-<h2><strong>Testing:</strong></h2>
-<h3><strong>HTML Validation</strong></h3>
+ ## Testing:
+ ### HTML Validation
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
 
@@ -195,13 +234,13 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <img src="assets/images/contact-validation.png"></details>
 
 
-<h3><strong>CSS Validation</strong></h3>
+ ### CSS Validation
 <p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
 
 <details><summary>CSS</summary>
 <img src="assets/images/css-validation.png"></details>
 
-<h3><strong>Accessibility Test and Performance</strong></h3>
+### Accessibility Test and Performance
 <p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following: </p>
 <details><summary>Home page</summary>
 <img src="assets/images/home-page-accessibility.png"></details>
@@ -212,7 +251,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <details><summary>Contact page</summary>
 <img src="assets/images/contact-accesibility.png"></details>
 
-<h2><strong>Performance</strong></h2>
+## Performance
 <p>The site was tested on the following decives:</p>
 <ol>
 <li>MacBook Pro</li>
@@ -226,10 +265,10 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li>Firefox</li>
 </ol>
 
-<h2><strong>Bugs:</strong></h2>
+## Bugs:
 <hr>
 
-<h2><strong>Deployment:</strong></h2>
+## Deployment:
 <p>In order to deploy my site I took the following steps using GitHub pages:</p>
 
 <ol>
@@ -241,10 +280,10 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <p> My link is: https://megannyhan.github.io/CI_PP1_MDRC/ </p>
 <hr>
 
-<h2><strong>Credits:</strong></h2>
+## Credits:
 <p> Images not li nked and referenced below were designed and taken by the author.</p>
 
-<h3> Site Images:</h3>
+### Site Images:
 <ul>
 
 <li>https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/ Photo by Christina Morillo from Pexels</li>
@@ -258,7 +297,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <li>https://thisismilford.com/wp-content/uploads/2020/02/mdrc10166-1024x768.jpg photo by Declan Meehan on MDRC.ie</li>
 </ul>
-Gallery Images:
+
+### Gallery Images:
 
 <ul>
 <li>https://www.pexels.com/photo/unrecognizable-man-surfing-on-surfboard-in-ocean-7952882/ Photo by Инна Работягина from Pexels </li>
@@ -287,7 +327,7 @@ Gallery Images:
 
 </ul>
 
-<h3> Source Code Used in Site</h3>
+### Source Code Used in Site
 
 <p> Due to limitations in my knowledge I google certain code that I wanted to use for the site, see code listed below:</p>
 <ul>
@@ -299,7 +339,8 @@ Gallery Images:
 
 <li>I also referenced the Love-Running project to help with the grid for the Gallery Section, the social links from the footer and the contact form. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li></ul>
 <hr>
-<h2><strong>Acknowledgements:</strong></h2>
+
+## Acknowledgements:
 <p> I would like to take this oppurtuinity to thank and acknowlege the following people:
 <ul>
 <li> I would like to thank Mo Shami - my mentor - for his feedback and guidence whilst creating the project.</li>
