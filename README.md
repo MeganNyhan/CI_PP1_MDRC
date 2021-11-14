@@ -23,16 +23,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
     2. [User Requrements](#user-requrements)
     3. [User Stories](#user-stories)
 3. [Design](#design)
-    1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
-    3. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
-4. [Technologies Used](#technologies-used)
-    1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    1. [Colour](#colours)
+    2. [Fonts](#fonts)
+    3. [Structure](#structure)
+    4. [Wireframes](#wireframes)
+4. [Technology](#technology)
+    1. [Development Languages Used](#development-languages-used)
+    2. [Frameworks & Tools used](#frameworks-&-tools-used)
 5. [Features](#features)
-6. [Testing](#validation)
+6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
@@ -58,7 +57,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 </ul>
 
 ### Site Owner's Stories
-    <ul>
+<ul>
     <li> Increase traffic to the website.</li>
     <li> Increase profits from sales of services in the office through increased promotion of them through the website.</li>
     <li> Increased public awarness of services offered to the public.</li>
@@ -176,32 +175,38 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <ul>
     <li>The navigation bar is featured on all four of the pages that make up the website. The navigation bar includes links to the Home Page, the Services Page, the Gallery Page and the Contact Page, and also the logo that re-directs you to the home page. The navigation bar is identical on each page to allow for easy navigation for each of the users. The design of the navigation bar is simple to limit ambiguity with the user. </li>
     <li> The main purpose of the navigation bar in the site is to allow the user easy travel through the site without the need of a previous or back button. </li>
-    <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.
+    <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.</li>
+    <li>The page that the users is on currently is highlighted.</li>
     </ul>
+ <p> User Stories and Site Owner's Stories covered : 4, 3, 5</p>
 
 #### Welcome Section
 <ul>
     <li>The welcome section of the site offers a quick introduction to the company. </li>
     <li> It also include an image of the building so the office is easily identifiable and eay to locate.</li>
     </ul>
+    <p> User Stories and Site Owner's Stories covered : 4, 2</p>
 
 #### Meet the Team Section
-
 <ul>
      <li>
      Also featured on the main page is a meet the team section which shows the user who they can expect to see when they visit the office.  </li>
      <li> The meet the team section also goes into detail of what each person work as and what they can help you with.
      </li></ul>
+     <p> User Stories and Site Owner's Stories covered : 4, 6, 2, 5</p>
 
 #### Footer
 <ul>
      <li> The footer allows the user to contact and view the social media pages that the organisation have.</li>
-     <li> The social media links comprise of the respective social network icons for easy accessibility.</li>
-    <h3><strong>Services Page</strong></h3>
-    <h4>Services Features (Contact us for more button)</h4>
+     <li> The social media links comprise of the respective social network icons for easy accessibility.</li></ul>
+     <p> User Stories and Site Owner's Stories covered : 4, 6, 2, 3</p>
+
+### Services Page
+<h4>Services Features (Contact us for more button)</h4>
     <ul>
     <li> The services page is very plane. It features a grid style list of services that the resource center provides with a button to redirect the user to the contact page in a new tab.</li>
     </ul>
+    <p> User Stories and Site Owner's Stories covered : 4, 3, 5</p>
 
 ### Gallery Page
 #### Gallery grid
