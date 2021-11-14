@@ -297,12 +297,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <details><summary>Contact page</summary>
 <img src="assets/images/lighthouse-contact-page.png"></details>
 
+## Device Testing
 <p>The site was tested on the following decives:</p>
 <ol>
 <li>MacBook Pro</li>
 <li>iPhone 6/7/8</li>
 <li>iPad (Regular size)</li>
 </ol>
+
+## Browser Commpatibility
 <p> The site was also tested on the following browsers</p>
 <ol>
 <li>Google Chrome</li>
@@ -434,10 +437,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Website Fonts don't work in Firefox| Choose back-up font for other browsers |
-| Website moves to the lef on larger monitors | Add another media quiery for larger than laptop screens |
-| Nav bar changes when viewed on larger phone sizes | Add a media query that makes the divs spread to 100% width on larger than 375px small screens |
-| The map floats down on mobile and pushes up the footer | change the width of the map in the html to fit desktop and tablet then mobile again and push footer down|
+| Website Fonts don't work in Firefox and safari| Choose back-up font for other browsers |
+| Website moves to the left on larger monitors | Add another media quiery for larger than laptop screens |
+| The map moves to the left on mobile repository | change the width of the map in the html to fit desktop and tablet then mobile again and push footer down|
 <hr>
 
 ## Deployment:
@@ -451,6 +453,19 @@ The MDRC website is a website for the company Milford and District Resource Cent
 </ol>
 <p> My link is: https://megannyhan.github.io/CI_PP1_MDRC/ </p>
 <hr>
+
+<p> Forking the repository is done by the following steps:</p>
+<ol>
+<li>Within the GitHub repository, click "Fork" (a button) at the upper right hand corner.</li></ol>
+
+<p> Cloning the repository is done by the following steps:</p>
+<ol>
+<li>Within the GitHub repository, locate "Code" (a button) found at the top of the page.</li>
+<li> Once selected, select which you prefere out of the following choise: HTTPS, SSH or GitHub CLI and press the copy URL to your clipboard.</li>
+<li> Then open Git Bash.</li>
+<li> Change the current directory to your desired location for the cloned directory.</li>
+<li>Finally, type "git clone" and paste your URL.</li>
+<li>Once you press enter your local clone is created.</li></ol>
 
 ## Credits:
 <p> Images not li nked and referenced below were designed and taken by the author.</p>
