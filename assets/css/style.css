@@ -457,13 +457,7 @@ padding-top: 15px;}
 @media screen and (max-width:828px) {
 
     /* --------Header Image-------- */
-#header-image {
-    height: 500px;
-    width: 90%;
-    overflow: hidden;
-    position: relative;
-    margin-left: 40px;
-    padding-top: 40px; }
+
 
 /* -----Navigation -------*/
 nav{ height: 10px;
@@ -866,11 +860,6 @@ input {
 
         /* Header Image */
 
-#header-image {
-    height: 500px;
-    width: 320px;
-    margin-left:20px;
-    padding-top: 20px;}
 
 /* -----Navigation------ */
 
