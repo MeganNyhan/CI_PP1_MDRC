@@ -260,7 +260,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <p> User Stories covered : 1, 2, 4, 6</p>
     <p>Site Owner's Stories covered: 1, 2, 3, 4</p> 
         <details><summary>Services grid and Contact Button</summary>
-        <img src="assets/images/services-page-features.png"></details>
+        <img src="assets/images/services-grid.png
+    "></details>
     <br>
 
 ### Gallery Page
