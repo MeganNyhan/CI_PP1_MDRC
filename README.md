@@ -457,7 +457,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <p> Forking the repository is done by the following steps:</p>
 <ol>
 <li>Within the GitHub repository, click "Fork" (a button) at the upper right hand corner.</li></ol>
-
+<hr>
 <p> Cloning the repository is done by the following steps:</p>
 <ol>
 <li>Within the GitHub repository, locate "Code" (a button) found at the top of the page.</li>
