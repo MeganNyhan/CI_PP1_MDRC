@@ -43,8 +43,10 @@ The MDRC website is a website for the company Milford and District Resource Cent
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+<br>
 
 ## Project Goals
+<br>
 
 ### User Stories
 
@@ -56,6 +58,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>Find the <strong>location</strong> of the centre</li>
 </ul>
 
+<br>
+
 ### Site Owner's Stories
 <ul>
     <li> Increase traffic to the website.</li>
@@ -65,10 +69,14 @@ The MDRC website is a website for the company Milford and District Resource Cent
     </ul>
 
 <hr>
+<br>
 
 ### User Experience:
+<br>
+
 ### Target Audience 
 <p> The target audience for this site is quite broad. The centre itself offers printing, graphic design, bookeeping, social prescribing, room rental, and support for the over 65's. On the daily, the centre would have members of the public from varied backgrounds, technical abilities and age groups. </p>
+<br>
 
 ### User Requirements
 <p>As I have mentioned, we have a very large/ varied target audience, and becasue of this the site has to be simple in design and very accessible. They way I have tackled this are as follows:</p>
@@ -79,8 +87,11 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>A functional responsive wesite that allow the user to view the site regardless of screen size. </li>
     <li>A straightforward and professional form that allows users to easily contact the business.</li>
 </ul>
+<br>
 
 ### User Stories
+<br>
+
 ### First time and Recurring Stories
 <ol>
     <li>As a user, I want to be able to view the services that I can avail of in my local community.</li>
@@ -91,6 +102,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     </li>
     <li>As a user who owns a local business, I want to contact them get a quote for the price of business cards.</li>
 </ol>
+<br>
 
 ### Site's Owner Stories
 <ol>
@@ -103,30 +115,41 @@ The MDRC website is a website for the company Milford and District Resource Cent
 </ol>
 
 <hr>
+<br>
 
 ## Design:
+<br>
+
 ### Design Choices
 
+
 <p> The company itself is a company with a wide target audience, and with this in mind I wanted to create a site that was accessible to everyone regardless of their technical ability, and ability to operate a computer. I wanted all designs to be simplistic, the navigation to be logical and seamless and for the accessibility to be a primary concern. </p>
+<br>
 
 ### Colour
 
   <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available to be as a member of the organisation. To verfiy the contrast in colours were accessible I tested them on WebAIM which they all passed as readable. </p>
+  <br>
 
 <details><summary>Colours and Brand Guidelines</summary>
   <img src="assets/images/mdrc-brand-guidelines.png"></details>
 
+<br>
+
  ### Fonts
   <p>Fonts used on the website were Open Sans Bold and Open Sans Light. Open sans bold was used for headings and open sans light was used in paragraphs.</p>
+  <br>
 
  ### Structure
 <p>The strucutre of this website was designed to be easily navagated through and easy to learn. I made sure that each page followed a similar structure but didn't comprimise the content that each page held. The following pages are within the structure of the site:</p>
+<br>
 
 <ul>
 <li> A home Page = Basic information about the site, with an image of the building and a meet the team section.</li>
 <li> A Services page = The services page offers an overview of the services offered by the resource center. </li>
 <li> A gallery page = Offers the user a chance to see possible familiar faces taking part in local activites/ meetings.    This page aims to encourage the user to want to partake in the activites/ events themselves.</li>
 <li> A Contact Page = Gives the user contact information and a google maps view of where the building is. There is also a contact form for a user to use to contact the comapny.</li>
+<br>
 
 <hr>
 
@@ -147,14 +170,18 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <img src="assets/images/wireframe4.png"></details>
 
 <hr>
+<br>
 
 ## Technology:
+<br>
+
 ### Develpoment Languages Used
 
 <ul>
 <li> HTML5 </li>
 <li> CSS </li>
 </ul>
+<br>
 
 ### Frameworks and Tools Used
 <ul>
@@ -165,11 +192,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> Font Awesome </li>
 <li> Google Developer Tools (for responsive site)</li>
 </ul>
-
+<br>
 <hr>
 
 ## Features:
+<br>
+
 ### Home Page
+<br>
+
 #### Navigation Bar
 
 <ul>
@@ -180,6 +211,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     </ul>
  <p> User Stories covered : 4</p>
  <p>Site Owner's Stories covere: 3, 5 </p>
+ <br>
 
 #### Welcome Section
 <ul>
@@ -188,6 +220,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     </ul>
     <p> User Stories covered : 4</p>
     <p>Site Owner's Stories covere: 2</p>
+    <br>
 
 #### Meet the Team Section
 <ul>
@@ -197,6 +230,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
      </li></ul>
      <p> User Stories covered : 4, 6</p>
      <p>Site Owner's Stories covere: 5, 5 </p>
+     <br>
 
 #### Footer
 <ul>
@@ -204,24 +238,31 @@ The MDRC website is a website for the company Milford and District Resource Cent
      <li> The social media links comprise of the respective social network icons for easy accessibility.</li></ul>
      <p> User Stories covered : 4, 6,</p>
      <p>Site Owner's Stories covere: 2, 3</p>
+     <br>
 
 ### Services Page
-<h4>Services Features (Contact us for more button)</h4>
-    <ul>
+#### Services Features (Contact us for more button)
+<ul>
     <li> The services page is very plane. It features a grid style list of services that the resource center provides with a button to redirect the user to the contact page in a new tab.</li>
     </ul>
     <p> User Stories covered : 1, 2, 4, 6</p>
     <p>Site Owner's Stories covere: 1, 2, 3, 4</p> 
+    <br>
 
 ### Gallery Page
+<br>
+
 #### Gallery grid
 <ul>
     <li>The gallery page features a grid of photos taken of the local community.</li>
     <li> The main purpose of the gallery is to encourage users to get active in the community and be aware of the events that are taking place.</li></ul>
     <p> User Stories covered : 3, 4</p>
-    <p>Site Owner's Stories covere: 2, 4</p> 
+    <p>Site Owner's Stories covere: 2, 4</p>
+    <br> 
 
 ### Contact Page
+<br>
+
 #### Google Maps Feature and Contact Form
 <ul>
     <li>The coantact page offers the user a chance to view the location of the office in the Milford Area on Google Maps. </li>
@@ -229,12 +270,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> Another purpose of th contact page and it's elements is to encourage the user to contact the office to enquire about the services offered.</li></ul>
     <p> User Stories covered :2, 3, 5, 6</p>
     <p>Site Owner's Stories covere: 2, 4, 6</p> 
-     
+     <br>
 <hr>
 
  ## Testing:
+ <br>
+
  ### HTML Validation
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
+<br>
 
 
 <details><summary>Home page</summary>
@@ -251,10 +295,11 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 
  ### CSS Validation
-<p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
+<p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p><br>
 
 <details><summary>CSS</summary>
 <img src="assets/images/css-validation.png"></details>
+<br>
 
 ### Accessibility Test and Performance
 <p> To Validate my accessibility, I used the Lighthouse evaluation tool in developer tools. My site was awarded the following: </p>
@@ -266,6 +311,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <img src="assets/images/gallery-accessibility.png"></details>
 <details><summary>Contact page</summary>
 <img src="assets/images/contact-accesibility.png"></details>
+<br>
 
 ## Performance
 <p>The site was tested on the following decives:</p>
@@ -280,6 +326,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li>Safari</li>
 <li>Firefox</li>
 </ol>
+<br>
 
 ### Testing User Stories
 
@@ -376,8 +423,11 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |Contat Page with a adress and google maps link | Navigate (using the nav bar) to the Contact Page and find at the top of the page an adress, and when scrolled down the user will find a map too | Find the location easily and travels to the office | Works as Expected|
 |Contact page with address and map, also a phone number for back up incase someone doesn't understand the map| On any page scroll up to the nav bar and find the contact page | Finds the companies address and other location informtion | Works as expected |
 
+<br>
+
 ## Bugs:
 <hr>
+<br>
 
 ## Deployment:
 <p>In order to deploy my site I took the following steps using GitHub pages:</p>
@@ -390,6 +440,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 </ol>
 <p> My link is: https://megannyhan.github.io/CI_PP1_MDRC/ </p>
 <hr>
+<br>
 
 ## Credits:
 <p> Images not li nked and referenced below were designed and taken by the author.</p>
@@ -408,6 +459,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <li>https://thisismilford.com/wp-content/uploads/2020/02/mdrc10166-1024x768.jpg photo by Declan Meehan on MDRC.ie</li>
 </ul>
+<br>
 
 ### Gallery Images:
 
@@ -437,6 +489,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li>https://www.pexels.com/photo/ground-group-growth-hands-461049/ Photo by Pixabay from Pexels</li>
 
 </ul>
+<br>
 
 ### Source Code Used in Site
 
@@ -450,6 +503,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <li>I also referenced the Love-Running project to help with the grid for the Gallery Section, the social links from the footer and the contact form. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li></ul>
 <hr>
+<br>
 
 ## Acknowledgements:
 <p> I would like to take this oppurtuinity to thank and acknowlege the following people:
