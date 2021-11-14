@@ -359,8 +359,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | Contact Information | Navigate to the Contact page, locate the contact information and phone number or contact form | Finds the phone number and calls the office or uses the contact form to conact the office via email| Works as expected |
 |Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies contact inforamtion | Works as expected |
 <details><summary>User Testing 5</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/user-story-5.png"></details>
 
 <hr>
 
@@ -370,8 +369,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |Services Page, and Graphic Design box with contact button | Navigate to the Services page, locate the services information and the contact us button | Finds the phone number when redirected to the phone number and calls the office or uses the contact form to ask for a qoute |
 |Services information grid, Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies services information and contact inforamtion to ask for a qoute easily | Works as expected |
 <details><summary>User Testing 6</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/user-story-6.png"></details>
 
 ### Testing Site Owner's Stories
 
@@ -381,8 +379,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button | Works as expected |
 | Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
 <details><summary>User Testing 7</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/user-story-7.png"></details>
 <hr>
 
     2."As the owner, I want to have an online platform that can be a hub of information for the locals in the area."
