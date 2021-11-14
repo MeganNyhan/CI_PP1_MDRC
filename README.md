@@ -260,7 +260,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <p> User Stories covered : 1, 2, 4, 6</p>
     <p>Site Owner's Stories covered: 1, 2, 3, 4</p> 
         <details><summary>Footer</summary>
-        <img src="assets/images/footer-feature.png"></details>
+        <img src="assets/images/services-page-features.png"></details>
     <br>
 
 ### Gallery Page
@@ -272,6 +272,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> The main purpose of the gallery is to encourage users to get active in the community and be aware of the events that are taking place.</li></ul>
     <p> User Stories covered : 3, 4</p>
     <p>Site Owner's Stories covered: 2, 4</p>
+        <details><summary>Footer</summary>
+        <img src="assets/images/footer-feature.png"></details>
     <br> 
 
 ### Contact Page
