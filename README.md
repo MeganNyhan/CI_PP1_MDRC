@@ -329,7 +329,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | Nav- Locate services page, services list and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
 <details><summary>User Testing 2</summary>
 <img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.1.png"></details>
+<img src="assets/images/user-story-2.2.png"></details>
 <hr>
 
     3."As a user with the view of visting the office, I want to know exactly where it is located."
@@ -337,7 +337,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 | Contact Information and Google Maps| Navigate to the Contact page, locate the contact information and google maps box | Finds the location and travels to the office |   Works as expected |
 |Google Maps in contact page and other contact information | On any page scroll up to the nav bar | Find the comapnies contact inforamtion and google maps box | Works as expected |
-
+<details><summary>User Testing 3</summary>
+<img src="assets/images/user-story-3.png"></details>
 <hr>
 
     4."As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website."
@@ -345,6 +346,10 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 |Navigation| Navigate to any pages in the site, and perform desired goal | Finds the information they wanted | Works as expected |
 |Nav bar on top of each page | On any page scroll up to the nav bar | Find any information available to the user | Works as expected |
+<details><summary>User Testing 4</summary>
+<img src="assets/images/nav-bar.png">
+<p> The nav bar is simple in design and offers 4 options</p></details>
+
 
 <hr>
 
@@ -353,6 +358,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 | Contact Information | Navigate to the Contact page, locate the contact information and phone number or contact form | Finds the phone number and calls the office or uses the contact form to conact the office via email| Works as expected |
 |Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies contact inforamtion | Works as expected |
+<details><summary>User Testing 5</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 
 <hr>
 
@@ -361,6 +369,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 |Services Page, and Graphic Design box with contact button | Navigate to the Services page, locate the services information and the contact us button | Finds the phone number when redirected to the phone number and calls the office or uses the contact form to ask for a qoute |
 |Services information grid, Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies services information and contact inforamtion to ask for a qoute easily | Works as expected |
+<details><summary>User Testing 6</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 
 ### Testing Site Owner's Stories
 
@@ -369,7 +380,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 | Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button | Works as expected |
 | Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
-
+<details><summary>User Testing 7</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 <hr>
 
     2."As the owner, I want to have an online platform that can be a hub of information for the locals in the area."
@@ -377,7 +390,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 | Home Page | Allows the owner to easily up date and change the information displayed on the site.| Works as expected |
 | Home page is the landing page which users will land on firat | Update the website as needed | New information displayed | Works as expected |
-
+<details><summary>User Testing 8</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 <hr>
 
     3."As the owner, I want a website that is accessible to anyone."
@@ -385,7 +400,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 | Simple style Navigation | Navigation allows users a restricted choice between possible pages they need information from (Restricted as it doesn't allow too many decisions) | Finds the information they need easily |   Works as expected |
 |Nav bar at the top of page allows simple navigation throughput site, providing a good User Experience | On any page scroll up to the nav bar | Find the information they wanted seamlessly | Works as expected |
-
+<details><summary>User Testing 9</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 <hr>
 
     4."As the owner, I want a site that will encourage my customers to use the services we have to offer."
@@ -393,14 +410,18 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 |Navigation, Services Page, and Services Grid| Navigate to the services page where you can view the services grid| Finds the information on the services they wanted | Works as expected |
 |Nav bar on top of each page including a link to the services page | On any page scroll up to the nav bar and select the services tab | Find any information on services available to the user and offer the possibilitiy of contacting the centre for more information they need | Works as expected |
-
+<details><summary>User Testing 10</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 <hr>
 
     5."As the owner, I want a site that will have the potential to be built upon in the future."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Nav bar with the option of expanding to hold more pages| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the nav bar without comprimising the readability| Works in progress |
-
+<details><summary>User Testing 11</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 <hr>
 
     6."As the owner, I want the customers to easily locate the company."
@@ -408,7 +429,9 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |-------------|------------|---------------------|-------------------|
 |Contat Page with a adress and google maps link | Navigate (using the nav bar) to the Contact Page and find at the top of the page an adress, and when scrolled down the user will find a map too | Find the location easily and travels to the office | Works as Expected|
 |Contact page with address and map, also a phone number for back up incase someone doesn't understand the map| On any page scroll up to the nav bar and find the contact page | Finds the companies address and other location informtion | Works as expected |
-
+<details><summary>User Testing 12</summary>
+<img src="assets/images/user-story-2.1.png">
+<img src="assets/images/user-story-2.1.png"></details>
 ## Bugs:
 
 | **Bug** | **Fix** |
