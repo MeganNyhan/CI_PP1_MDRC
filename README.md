@@ -208,10 +208,12 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>The navigation bar is featured on all four of the pages that make up the website. The navigation bar includes links to the Home Page, the Services Page, the Gallery Page and the Contact Page, and also the logo that re-directs you to the home page. The navigation bar is identical on each page to allow for easy navigation for each of the users. The design of the navigation bar is simple to limit ambiguity with the user. </li>
     <li> The main purpose of the navigation bar in the site is to allow the user easy travel through the site without the need of a previous or back button. </li>
     <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.</li>
-    <li>The page that the users is on currently is highlighted.</li>
+    <li>The page that the users is on currently is underlined.</li>
     </ul>
  <p> User Stories covered : 4</p>
- <p>Site Owner's Stories covere: 3, 5 </p>
+ <p>Site Owner's Stories covered: 3, 5 </p>
+        <details><summary>Navigation</summary>
+        <img src="assets/images/nav-bar.png"></details>
  <br>
 
 #### Welcome Section
@@ -220,7 +222,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> It also include an image of the building so the office is easily identifiable and eay to locate.</li>
     </ul>
     <p> User Stories covered : 4</p>
-    <p>Site Owner's Stories covere: 2</p>
+    <p>Site Owner's Stories covered: 2</p>
     <br>
 
 #### Meet the Team Section
@@ -230,7 +232,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
      <li> The meet the team section also goes into detail of what each person work as and what they can help you with.
      </li></ul>
      <p> User Stories covered : 4, 6</p>
-     <p>Site Owner's Stories covere: 5, 5 </p>
+     <p>Site Owner's Stories covered: 5, 5 </p>
      <br>
 
 #### Footer
@@ -238,7 +240,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
      <li> The footer allows the user to contact and view the social media pages that the organisation have.</li>
      <li> The social media links comprise of the respective social network icons for easy accessibility.</li></ul>
      <p> User Stories covered : 4, 6,</p>
-     <p>Site Owner's Stories covere: 2, 3</p>
+     <p>Site Owner's Stories covered: 2, 3</p>
      <br>
 
 ### Services Page
@@ -247,7 +249,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> The services page is very plane. It features a grid style list of services that the resource center provides with a button to redirect the user to the contact page in a new tab.</li>
     </ul>
     <p> User Stories covered : 1, 2, 4, 6</p>
-    <p>Site Owner's Stories covere: 1, 2, 3, 4</p> 
+    <p>Site Owner's Stories covered: 1, 2, 3, 4</p> 
     <br>
 
 ### Gallery Page
@@ -258,7 +260,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>The gallery page features a grid of photos taken of the local community.</li>
     <li> The main purpose of the gallery is to encourage users to get active in the community and be aware of the events that are taking place.</li></ul>
     <p> User Stories covered : 3, 4</p>
-    <p>Site Owner's Stories covere: 2, 4</p>
+    <p>Site Owner's Stories covered: 2, 4</p>
     <br> 
 
 ### Contact Page
@@ -270,7 +272,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> The contact form offers the users to message the office to ask about a certain service, or inquire about general queries easily and directly.</li>
     <li> Another purpose of th contact page and it's elements is to encourage the user to contact the office to enquire about the services offered.</li></ul>
     <p> User Stories covered :2, 3, 5, 6</p>
-    <p>Site Owner's Stories covere: 2, 4, 6</p> 
+    <p>Site Owner's Stories covered: 2, 4, 6</p> 
      <br>
 <hr>
 
