@@ -178,14 +178,16 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.</li>
     <li>The page that the users is on currently is highlighted.</li>
     </ul>
- <p> User Stories and Site Owner's Stories covered : 4, 3, 5</p>
+ <p> User Stories covered : 4</p>
+ <p>Site Owner's Stories covere: 3, 5 </p>
 
 #### Welcome Section
 <ul>
     <li>The welcome section of the site offers a quick introduction to the company. </li>
     <li> It also include an image of the building so the office is easily identifiable and eay to locate.</li>
     </ul>
-    <p> User Stories and Site Owner's Stories covered : 4, 2</p>
+    <p> User Stories covered : 4</p>
+    <p>Site Owner's Stories covere: 2</p>
 
 #### Meet the Team Section
 <ul>
@@ -193,31 +195,40 @@ The MDRC website is a website for the company Milford and District Resource Cent
      Also featured on the main page is a meet the team section which shows the user who they can expect to see when they visit the office.  </li>
      <li> The meet the team section also goes into detail of what each person work as and what they can help you with.
      </li></ul>
-     <p> User Stories and Site Owner's Stories covered : 4, 6, 2, 5</p>
+     <p> User Stories covered : 4, 6</p>
+     <p>Site Owner's Stories covere: 5, 5 </p>
 
 #### Footer
 <ul>
      <li> The footer allows the user to contact and view the social media pages that the organisation have.</li>
      <li> The social media links comprise of the respective social network icons for easy accessibility.</li></ul>
-     <p> User Stories and Site Owner's Stories covered : 4, 6, 2, 3</p>
+     <p> User Stories covered : 4, 6,</p>
+     <p>Site Owner's Stories covere: 2, 3</p>
 
 ### Services Page
 <h4>Services Features (Contact us for more button)</h4>
     <ul>
     <li> The services page is very plane. It features a grid style list of services that the resource center provides with a button to redirect the user to the contact page in a new tab.</li>
     </ul>
-    <p> User Stories and Site Owner's Stories covered : 4, 3, 5</p>
+    <p> User Stories covered : 1, 2, 4, 6</p>
+    <p>Site Owner's Stories covere: 1, 2, 3, 4</p> 
 
 ### Gallery Page
 #### Gallery grid
 <ul>
-    <li>The gallery page features a grid of photos taken of the local community.</li></ul>
+    <li>The gallery page features a grid of photos taken of the local community.</li>
+    <li> The main purpose of the gallery is to encourage users to get active in the community and be aware of the events that are taking place.</li></ul>
+    <p> User Stories covered : 3, 4</p>
+    <p>Site Owner's Stories covere: 2, 4</p> 
 
 ### Contact Page
 #### Google Maps Feature and Contact Form
 <ul>
     <li>The coantact page offers the user a chance to view the location of the office in the Milford Area on Google Maps. </li>
-    <li> The contact form offers the users to message the office to ask about a certain service, or inquire about general queries easily and directly.</li></ul>
+    <li> The contact form offers the users to message the office to ask about a certain service, or inquire about general queries easily and directly.</li>
+    <li> Another purpose of th contact page and it's elements is to encourage the user to contact the office to enquire about the services offered.</li></ul>
+    <p> User Stories covered :2, 3, 5, 6</p>
+    <p>Site Owner's Stories covere: 2, 4, 6</p> 
      
 <hr>
 
@@ -269,6 +280,20 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li>Safari</li>
 <li>Firefox</li>
 </ol>
+
+### Testing User Stories
+
+"As a user, I want to be able to view the services that I can avail of in my local community."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button |    Works as expected |
+| Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+
+"As a user, I want to know where I can get a avail of printing in my area."
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Services information grid| Navigate to the Services page, locate the services grid and read prinitng info box | Finds the printing box and goes to the contact page using contact button |   Works as expected |
+| Nav- Locate services page, services list and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
 
 ## Bugs:
 <hr>
