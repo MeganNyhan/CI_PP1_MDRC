@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title><!-- CSS Link -->
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Milford and District Resource Centre | Home</title>
+    <title>Milford and District Resource Centre | Contact</title>
          <a href="index.html" aria-label="Takes you back to the home page.">  
          <h1 id="logo" >MDRC</h1> 
          </a> 
@@ -38,18 +38,24 @@
 <body>
     <section class="form-section">
         <form class="contact-form" method="POST" action="https://formdump.codeinstitute.net/">
-            <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
+            <h2>Contact us for more information</h2>
             <label for="fname">First Name</label>
             <input id="fname" class="text-input" type="text" name="first_name" required />
             <label for="lname">Last Name</label>
             <input id="lname" class="text-input" type="text"  name="last_name" required />
             <label for="email">Email Address</label>
             <input id="email" class="text-input" type="email" name="email_address" required/>
-            <label for="email">Message</label>
+            <label for="message" class="message-input">Message</label>
             <input id="message" class="text-input" type="text" name="message" required/>
             
             <input class="submit-button"  type="submit" value="Submit"/>
         </form>
+
+ <!------embeded Google Maps -------->  
+        <section id="map">
+            <div class="flex-grow-1 border border-2 rounded mb-3 ratio ratio-16x9">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9133.414875363636!2d-7.6994824!3d55.0895701!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1295c52d66ece440!2sMilford%20%26%20District%20Resource%20Centre!5e0!3m2!1sen!2sie!4v1636887303300!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+        </section>            
  </section> 
     
 </body>
