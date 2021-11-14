@@ -881,14 +881,13 @@ figcaption {
 
  /* Mobile phone media querie */
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:414px) {
 
 
 
 /* -----Navigation------ */
 
-nav{
-    height: 10px;
+nav{height: 10px;
     width: 94%;}
 
 nav ul {background-color: #fdd008;
@@ -926,10 +925,11 @@ nav ul {background-color: #fdd008;
         padding-bottom: 20px;
         text-transform: uppercase;}
 
-#welcome p {
+.para1, .para2 {
         width: 90%;
         text-align: justify;
-        padding-left: 20px;}
+        padding-right: 20px;
+    }
 
 #welcome {
        padding-bottom: 20px;}
@@ -968,8 +968,7 @@ nav ul {background-color: #fdd008;
 
 #meet-the-team {
     margin-left: 1px;
-    width:100%;
-    margin-top:20px;}  
+    width:100%;}  
 
 #meet-the-team img {
     border-radius: 50%;
@@ -1092,7 +1091,7 @@ figcaption {
 /* footer */
 
 #home-footer {
-    height: 5px;
+    height: auto;
     background-color: #fdd008;
     margin-top:860px;}
 
@@ -1110,10 +1109,6 @@ figcaption {
 
 /* -------------------- Services Page -------------------- */
 
-#services-header-image {
-    height: 500px;
-    width: 320px;
-    padding-right: 10px;}
    
 #services-welcome h1, h4{
     text-align: center;
@@ -1126,15 +1121,22 @@ figcaption {
 #services-welcome p {
     width: 90%;
     text-align: justify;
-    padding-left: 20px;}
+    padding-left: 30px;}
 
 #services-welcome {
-   padding-bottom: 10px;}
+   padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 18px;}
+
+.para1 > h4 {
+    padding-left: 10px;
+    font-size: 20px;
+}
 
 #section1 {
     background-color: #2EB0E5;
     Width: 90%;
-    height: 400px;
+    height: 300px;
     float: left;
     margin-left: 20px;
     text-align: center;}
@@ -1142,7 +1144,7 @@ figcaption {
 #section2 {
     background-color: #fff;
     Width: 90%;
-    height: 350px;
+    height: 330px;
     float: left;
     margin-left: 20px;
     text-align: center;}
@@ -1150,7 +1152,7 @@ figcaption {
 #section3 {
     background-color: #2EB0E5;
     Width: 90%;
-    height: 350px;
+    height: 330px;
     float: left;
     margin-left: 20px;
     text-align: center;}
@@ -1158,7 +1160,7 @@ figcaption {
 #section4 {
     background-color: #fff;
     Width: 90%;
-    height: 350px;
+    height: 300px;
     float: left;
     margin-left: 20px;
     text-align: center;}
@@ -1166,7 +1168,7 @@ figcaption {
 #section5 {
     background-color: #2EB0E5;
     Width: 90%;
-    height: 350px;
+    height: 300px;
     float: left;
     margin-left: 20px;
     text-align: center;}
@@ -1174,14 +1176,13 @@ figcaption {
 #section6 {
     background-color: #fff;
     Width: 90%;
-    height: 400px;
+    height: 200px;
     float: left;
     margin-left: 20px;
     text-align: center;}
 
 #services-list h2 {
     margin-top: 40px;
-    padding-bottom: 20px;
     padding-right: 10px;
     padding-left:10px;}
 
@@ -1189,20 +1190,13 @@ figcaption {
     padding-right: 20px;
     padding-left:20px;}
 
-#services-list {
-    margin-bottom: 80px;}
-
 #services-footer {
-    height: 10px;
+    height: auto;
     background-color: #fdd008;
     margin-bottom: 5px;
-    margin-top: 800px;}
+    margin-top: 500px;}
 
 /* --------------Gallery Page ---------------- */
-
-.gallery-header {
-    width: 320px;}
-
 .gallery-heading {
     text-transform: uppercase;
     padding-top: 20px;
@@ -1229,45 +1223,107 @@ figcaption {
 
 /*---------------------- Contact Page  -----------------------------*/
 
-#image-contact{
-    height: 575px;
-    width: 90%;
-    overflow: hidden;
-    position: relative;}
+/*---- Love running project code -----*/
+/* ---- Form ----*/ 
+.form-section {
+    clear: both;
+    background-color: #fff;
+    background-size: cover;}
 
-#contact-header h1{
-    margin-left: 10px;
-    text-align: center;}
+.contact-form {
+    margin: 0 5% 30% 0;
+    color: black;
+    border: 1px solid black;
+    max-width: 600px;
+    position: absolute;
+    left: 20px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
 
-#contact-info{
-    margin-left: 105px; 
+.contact-form > h2 {
+    color:black;
+    padding-bottom: 20px;
     text-transform: uppercase;
-    width: 40%;
-    float: left;
+}
+
+.text-input {
+    background: transparent;
+    color: black;
+    width: 100%;
+    height: 15px;
+    margin: 5px 0 20px 0;
+    border: 1px solid black;
+    border-radius: 2px;}
+
+.message-input{
+    background: transparent;
+    color: black;
+    width: 100%;
+    height: 105px;
+    margin: 5px 0 20px 0;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #2EB0E5;
+}
+
+.submit-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
     text-align: center;
-    margin-bottom: 20px;}
+    font-size: 100%;
+    background-color: #fdd008;
+    color: #3a3a3a;
+    display: block;
+}
 
-/* From */
-
-#contact-form{
-    margin-left: 0px; 
-    margin-top: 20px;}
-
-.contact-button {
-        margin-top: 40px;}
-    
-#form{ 
-        text-align: left;
-        width: 100%;
-        margin-left: 10px;}
-    
-/* ----- Map ----*/    
+/* --- Map ---*/
 
 #map {
-   margin-top: 50px;
-    margin-bottom: 450px;
-    margin-left: 30px;
-    width:100%; 
-    height:300px;}
+    margin-bottom: 40px;
+    width:20%; 
+    height:40%;
+    background-color: #fff;
+    } 
+
+#contact-footer {
+    height:auto;
+    background-color: #fdd008;}
+
+    /*----Find us ----*/
+.contact-us > h2{
+    background-color: #fff;
+    text-transform: uppercase;
+    width:90%;
+    font-size: 18px;
+}
+
+.content1 {
+    font-size: 14px;
+    width:50%;
+    float: left;
+    padding-left: 20%;
+}
+.content2 {
+    font-size: 14px;
+    width:50%;
+    float:left;
+    padding-left: 20%;
+}
+
+.content3 {
+    font-size: 14px;
+    padding-left: 32%;
+}
+
+.contact-us{
+    text-align: center;
+    width:90%;
+    font-size: 12px;
+    background-color: #fff;}
 }
 }
