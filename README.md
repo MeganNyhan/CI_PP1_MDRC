@@ -1,4 +1,4 @@
-<img src="assets/images/smartmockups.png" alt="Mockup of my website across multiple devices">
+<img src="assets/images/smartmockups_kvzln58n.jpg" alt="Mockup of my website across multiple devices">
 
 <a href="https://megannyhan.github.io/CI_PP1_MDRC/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener">Live Website</a>
 
@@ -467,7 +467,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | Website Fonts don't work in Firefox| Choose back-up font for other browsers |
 | Website moves to the lef on larger monitors | Add another media quiery for larger than laptop screens |
 | Nav bar changes when viewed on larger phone sizes | Add a media query that makes the divs spread to 100% width on larger than 375px small screens |
-| When viewed on mobile the Map is too big for the screen  | change the width in th ehtml file |
+| The map floats down on mobile and pushes up the footer | change the width of the map in the html to fit desktop and tablet then mobile again and push footer down|
 <hr>
 <br>
 
