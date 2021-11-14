@@ -218,29 +218,37 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 #### Welcome Section
 <ul>
-    <li>The welcome section of the site offers a quick introduction to the company. </li>
-    <li> It also include an image of the building so the office is easily identifiable and eay to locate.</li>
+    <li>The welcome section of the site offers a quick introduction to the company.</li>
+    <li> It also include an image of the building so the office is easily identifiable and esay to locate.</li>
     </ul>
     <p> User Stories covered : 4</p>
     <p>Site Owner's Stories covered: 2</p>
+        <details><summary>Welcome Section</summary>
+        <img src="assets/images/welcome-section.png"></details>
     <br>
 
 #### Meet the Team Section
 <ul>
      <li>
-     Also featured on the main page is a meet the team section which shows the user who they can expect to see when they visit the office.  </li>
+     Also featured on the main page is a meet the team section which shows the user who they can expect to see when they visit the office.</li>
      <li> The meet the team section also goes into detail of what each person work as and what they can help you with.
-     </li></ul>
+     </li>
+     <li> The main purpose of this section is to offer a freinsly introduction to the people you can expect to see in the office if you decide to go in.</li></ul>
      <p> User Stories covered : 4, 6</p>
      <p>Site Owner's Stories covered: 5, 5 </p>
+        <details><summary>Meet the Team</summary>
+        <img src="assets/images/meet-the-team-feature.png"></details>
      <br>
 
 #### Footer
 <ul>
      <li> The footer allows the user to contact and view the social media pages that the organisation have.</li>
-     <li> The social media links comprise of the respective social network icons for easy accessibility.</li></ul>
+     <li> The social media links comprise of the respective social network icons for easy accessibility.</li>
+     <li> The reason the design is so simple is that I didn't want it to be too cluttered with information. I felt less is more.</li></ul>
      <p> User Stories covered : 4, 6,</p>
-     <p>Site Owner's Stories covered: 2, 3</p>
+     <p> Site Owner's Stories covered: 2, 3</p>
+        <details><summary>Footer</summary>
+        <img src="assets/images/footer-feature.png"></details>
      <br>
 
 ### Services Page
