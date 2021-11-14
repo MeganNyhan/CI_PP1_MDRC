@@ -63,7 +63,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li>As the owner of the site, I want my potential customers to have a place where they can view the services I offer. </li>
     <li>As the owner, I want to have an online platform that can be a hub of information for the locals in the area.</li>
     <li>As the owner, I want a website that is accessible to anyone.</li>
-    <li>As the owner, I want a site that will encourage my customers to buy from our company and therefore increase     our profits</li>
+    <li>As the owner, I want a site that will encourage my customers to use the services we have to offer.</li>
     <li> As the owner, I want a site that will have the potential to be built upon in the future.</li>
     <li> As the owner, I want the customers to easily locate the company.</li>
 </ol>
@@ -294,7 +294,7 @@ Gallery Images:
 
 <li> Code to help with the contact form was taken from bootstrap: https://getbootstrap.com/docs/5.1/forms/form-control/ </li>
 
-<li>I also referenced the Love-Running project to help with the grid for the Gallery Section and the social links from the footer. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li></ul>
+<li>I also referenced the Love-Running project to help with the grid for the Gallery Section, the social links from the footer and the contact form. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li></ul>
 <hr>
 <h2><strong>Acknowledgements:</strong></h2>
 <p> I would like to take this oppurtuinity to thank and acknowlege the following people:
