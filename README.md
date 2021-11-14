@@ -429,6 +429,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 |Contact page with address and map, also a phone number for back up incase someone doesn't understand the map| On any page scroll up to the nav bar and find the contact page | Finds the companies address and other location informtion | Works as expected |
 <details><summary>User Testing 12</summary>
 <img src="assets/images/user-story-3.png"></details>
+
 ## Bugs:
 
 | **Bug** | **Fix** |
