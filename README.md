@@ -312,6 +312,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <details><summary>Contact page</summary>
 <img src="assets/images/contact-validation.png"></details>
+<br>
 
 
  ### CSS Validation
@@ -459,6 +460,14 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <br>
 
 ## Bugs:
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Website Fonts don't work in Firefox| Choose back-up font for other browsers |
+| Website is too small for monitor screens by 2% | Add another media quiery for larger than laptop screens |
+| Website is resposive to most popular iphones (ie. iphone 6/7/8) but not newer and larger models | Add a media query to allow the margins of the site to be bigger|
+| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
+| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
 <hr>
 <br>
 
