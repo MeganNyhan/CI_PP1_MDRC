@@ -29,14 +29,22 @@
             </li>
         </ul>
     </nav>
-<!-- header -->
-    <header>
-        <section id="contact-header-image">
-             <img src="assets/images/contact-page.png" class="header-image" alt="MDRC logo in foreground, blue landscape in background">   
-        </section>
-    </header>
-</head>
 <body>
+    <section class="form-section">
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+            <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
+            <label for="fname">First Name</label>
+            <input id="fname" class="text-input" type="text" name="first_name" required />
+            <label for="lname">Last Name</label>
+            <input id="lname" class="text-input" type="text"  name="last_name" required />
+            <label for="email">Email Address</label>
+            <input id="email" class="text-input" type="email" name="email_address" required/>
+            <label for="email">Message</label>
+            <input id="message" class="text-input" type="text" name="message" required/>
+            
+            <input class="join-button"  type="submit" value="Submit"/>
+        </form>
+ </section> 
     
 </body>
 </html>
