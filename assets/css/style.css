@@ -23,18 +23,10 @@
 h1, h2, h3, p, nav, menu{
                         font-family: Open Sans;}
 
-/* Header Image */
-
-#header-image {
-            height: 550px;
-            width: 100%;
-            overflow: hidden;
-            position: relative;}
-
 /* Navigation */
 
 nav{
-    height: 5px;
+    height: auto;
     width: 100%;}
 
 nav ul {background-color: #fdd008;
