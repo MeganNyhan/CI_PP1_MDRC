@@ -347,23 +347,23 @@ The MDRC website is a website for the company Milford and District Resource Cent
 
 <hr>
 
-    3."As a user with the view of visting the office, I want to know exactly where it is located."
+    3."As the owner, I want a website that is accessible to anyone."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Information and Google Maps| Navigate to the Contact page, locate the contact information and google maps box | Finds the location and travels to the office |   Works as expected |
-|Google Maps in contact page and other contact information | On any page scroll up to the nav bar | Find the comapnies contact inforamtion and google maps box | Works as expected |
+| Simple style Navigation | Navigation allows users a restricted choice between possible pages they need information from (Restricted as it doesn't allow too many decisions) | Finds the information they need easily |   Works as expected |
+|Nav bar at the top of page allows simple navigation throughput site, providing a good User Experience | On any page scroll up to the nav bar | Find the information they wanted seamlessly | Works as expected |
 
 <hr>
 
-    4."As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website."
+    4."As the owner, I want a site that will encourage my customers to use the services we have to offer."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Navigation| Navigate to any pages in the site, and perform desired goal | Finds the information they wanted | Works as expected |
-|Nav bar on top of each page | On any page scroll up to the nav bar | Find any information available to the user | Works as expected |
+|Navigation, Services Page, and Services Grid| Navigate to the services page where you can view the services grid| Finds the information on the services they wanted | Works as expected |
+|Nav bar on top of each page including a link to the services page | On any page scroll up to the nav bar and select the services tab | Find any information on services available to the user and offer the possibilitiy of contacting the centre for more information they need | Works as expected |
 
 <hr>
 
-    5."As a user who doesn't understand websites, I want to easily find a phone number for the office so I can contact them."
+    5."As the owner, I want a site that will have the potential to be built upon in the future."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Information | Navigate to the Contact page, locate the contact information and phone number or contact form | Finds the phone number and calls the office or uses the contact form to conact the office via email| Works as expected |
