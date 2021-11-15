@@ -301,7 +301,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <p>The site was tested on the following decives:</p>
 <ol>
 <li>MacBook Pro</li>
-<li>iPhone 6/7/8</li>
+<li>iPhone xr/11/12</li>
 <li>iPad (Regular size)</li>
 </ol>
 
