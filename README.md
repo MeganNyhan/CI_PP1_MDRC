@@ -14,15 +14,15 @@ The MDRC website is a website for the company Milford and District Resource Cent
     2. [Site Owner's Goals](#site-owners-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements](#user-requrements)
+    2. [User Requirements](#user-requirements)
     3. [User Stories](#user-stories)
 3. [Design](#design)
-    1. [Colour](#colours)
+    1. [Colour](#colour)
     2. [Fonts](#fonts)
     3. [Structure](#structure)
     4. [Wireframes](#wireframes)
 4. [Technology](#technology)
-    1. [Development Languages Used](#development-languages-used)
+    1. [Develpoment Languages Used](#develpoment-languages-used)
     2. [Frameworks & Tools used](#frameworks-&-tools-used)
 5. [Features](#features)
 6. [Testing](#testing)
@@ -152,7 +152,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> CSS </li>
 </ul>
 
-### Frameworks and Tools Used
+###  Frameworks & Tools used
 <ul>
 <li> Bootstrap  </li>
 <li> Git, GitHUb, and GitPod </li>
@@ -305,7 +305,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li>iPad (Regular size)</li>
 </ol>
 
-## Browser Commpatibility
+## Browser Compatibility
 <p> The site was also tested on the following browsers</p>
 <ol>
 <li>Google Chrome</li>
