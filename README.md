@@ -23,7 +23,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
     4. [Wireframes](#wireframes)
 4. [Technology](#technology)
     1. [Develpoment Languages Used](#develpoment-languages-used)
-    2. [Frameworks & Tools used](#frameworks-&-tools-used)
+    2. [Frameworks and Tools used](#frameworks-and-tools-used)
 5. [Features](#features)
 6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
@@ -152,7 +152,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> CSS </li>
 </ul>
 
-###  Frameworks & Tools used
+###  Frameworks and Tools used
 <ul>
 <li> Bootstrap  </li>
 <li> Git, GitHUb, and GitPod </li>
