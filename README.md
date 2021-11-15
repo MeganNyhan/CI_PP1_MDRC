@@ -212,7 +212,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
      <p> User Stories covered : 4, 6,</p>
      <p> Site Owner's Stories covered: 2, 3</p>
         <details><summary>Footer</summary>
-        <img src="assets/images/footer-feature.png"></details>
+        <img src="assets/images/new-footer.png"></details>
 
 ### Services Page
 #### Services Grid and Contact us for more Button
@@ -245,10 +245,8 @@ The MDRC website is a website for the company Milford and District Resource Cent
     <li> Another purpose of th contact page and it's elements is to encourage the user to contact the office to inquire about the services offered.</li></ul>
     <p> User Stories covered :2, 3, 5, 6</p>
     <p>Site Owner's Stories covered: 2, 4, 6</p> 
-        <details><summary>Contact: Google Maps</summary>
-        <img src="assets/images/google-maps-feature.png"></details>
-        <details><summary>Contact: Contact Form</summary>
-        <img src="assets/images/contact-form-feature.png"></details>
+        <details><summary>Contact: Google Maps and form</summary>
+        <img src="assets/images/google-maps&-form.png"></details>
 <hr>
 
  ## Testing:
@@ -298,7 +296,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <img src="assets/images/lighthouse-contact-page.png"></details>
 
 ## Device Testing
-<p>The site was tested on the following decives:</p>
+<p>The site was tested on the following decives using the responsive tool in Google Chromes Developer tools:</p>
 <ol>
 <li>MacBook Pro</li>
 <li>iPhone xr/11/12</li>
@@ -391,7 +389,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 | Home Page | Allows the owner to easily up date and change the information displayed on the site.| Works as expected |
 | Home page is the landing page which users will land on firat | Update the website as needed | New information displayed | Works as expected |
 <details><summary>User Testing 8</summary>
-<img src="assets/images/user-story-8.png">
+<img src="assets/images/home-user-story.png">
 </details>
 <hr>
 
@@ -533,5 +531,6 @@ The MDRC website is a website for the company Milford and District Resource Cent
 <li> I would like to thank Mo Shami - my mentor - for his feedback and guidence whilst creating the project.</li>
 <li> I would like to thank those on the code institute slack channel for help with any issues I had.</li>
 <li> I would like to thank my manager who helped me with Site Owner's stories to help guide the creation and purpose of the site.</li>
+<li> I also want to say that I did intend on making a error 404 page but ran out of time.</li>
 </ul>
 </p>
